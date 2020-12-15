@@ -1,39 +1,39 @@
 [
   {
-    "Show Name": "The Office",
-    "Average Rating": 8.2,
-    "Final Episode Rating": 9.8,
-    "Ratings Difference": 1.6
+    "Show_Name": "The Office",
+    "Average_Rating": 8.2,
+    "Final_Episode Rating": 9.8,
+    "Ratings_Difference": 1.6
   },
   {
-    "Show Name": "Futurama",
-    "Average Rating": 7.9,
-    "Final Episode Rating": 9.4,
-    "Ratings Difference": 1.5
+    "Show_Name": "Futurama",
+    "Average_Rating": 7.9,
+    "Final_Episode_Rating": 9.4,
+    "Ratings_Difference": 1.5
   },
   {
-    "Show Name": "Friends",
-    "Average Rating": 8.46,
-    "Final Episode Rating": 9.7,
-    "Ratings Difference": 1.24
+    "Show_Name": "Friends",
+    "Average_Rating": 8.46,
+    "Final_Episode_Rating": 9.7,
+    "Ratings_Difference": 1.24
   },
   {
-    "Show Name": "Breaking Bad",
-    "Average Rating": 9,
-    "Final Episode Rating": 9.9,
-    "Ratings Difference": 0.9
+    "Show_Name": "Breaking Bad",
+    "Average_Rating": 9,
+    "Final_Episode_Rating": 9.9,
+    "Ratings_Difference": 0.9
   },
   {
-    "Show Name": "House M.D",
-    "Average Rating": 8.5,
-    "Final Episode Rating": 9.3,
-    "Ratings Difference": 0.8
+    "Show_Name": "House M.D",
+    "Average_Rating": 8.5,
+    "Final_Episode_Rating": 9.3,
+    "Ratings_Difference": 0.8
   },
   {
-    "Show Name": "The X Files",
-    "Average Rating": 7.9,
-    "Final Episode Rating": 7.5,
-    "Ratings Difference": -0.4
+    "Show_Name": "The X Files",
+    "Average_Rating": 7.9,
+    "Final_Episode_Rating": 7.5,
+    "Ratings_Difference": -0.4
   },
   {
     "Show Name": "How I Met Your Mother",
