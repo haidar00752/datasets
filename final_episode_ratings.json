@@ -1,0 +1,62 @@
+[
+  {
+    "Show Name": "The Office",
+    "Average Rating": 8.2,
+    "Final Episode Rating": 9.8,
+    "Ratings Difference": 1.6
+  },
+  {
+    "Show Name": "Futurama",
+    "Average Rating": 7.9,
+    "Final Episode Rating": 9.4,
+    "Ratings Difference": 1.5
+  },
+  {
+    "Show Name": "Friends",
+    "Average Rating": 8.46,
+    "Final Episode Rating": 9.7,
+    "Ratings Difference": 1.24
+  },
+  {
+    "Show Name": "Breaking Bad",
+    "Average Rating": 9,
+    "Final Episode Rating": 9.9,
+    "Ratings Difference": 0.9
+  },
+  {
+    "Show Name": "House M.D",
+    "Average Rating": 8.5,
+    "Final Episode Rating": 9.3,
+    "Ratings Difference": 0.8
+  },
+  {
+    "Show Name": "The X Files",
+    "Average Rating": 7.9,
+    "Final Episode Rating": 7.5,
+    "Ratings Difference": -0.4
+  },
+  {
+    "Show Name": "How I Met Your Mother",
+    "Average Rating": 8.1,
+    "Final Episode Rating": 5.5,
+    "Ratings Difference": -2.6
+  },
+  {
+    "Show Name": "Dexter",
+    "Average Rating": 8.58,
+    "Final Episode Rating": 4.6,
+    "Ratings Difference": -3.98
+  },
+  {
+    "Show Name": "Game of Thrones",
+    "Average Rating": 8.83,
+    "Final Episode Rating": 4,
+    "Ratings Difference": -4.83
+  },
+  {
+    "Show Name": "House of Cards",
+    "Average Rating": 8,
+    "Final Episode Rating": 2.5,
+    "Ratings Difference": -5.5
+  }
+]
