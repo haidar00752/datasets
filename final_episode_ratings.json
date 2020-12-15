@@ -2,7 +2,7 @@
   {
     "Show_Name": "The Office",
     "Average_Rating": 8.2,
-    "Final_Episode Rating": 9.8,
+    "Final_Episode_Rating": 9.8,
     "Ratings_Difference": 1.6
   },
   {
@@ -36,27 +36,27 @@
     "Ratings_Difference": -0.4
   },
   {
-    "Show Name": "How I Met Your Mother",
-    "Average Rating": 8.1,
-    "Final Episode Rating": 5.5,
-    "Ratings Difference": -2.6
+    "Show_Name": "How I Met Your Mother",
+    "Average_Rating": 8.1,
+    "Final_Episode_Rating": 5.5,
+    "Ratings_Difference": -2.6
   },
   {
-    "Show Name": "Dexter",
-    "Average Rating": 8.58,
-    "Final Episode Rating": 4.6,
-    "Ratings Difference": -3.98
+    "Show_Name": "Dexter",
+    "Average_Rating": 8.58,
+    "Final_Episode_Rating": 4.6,
+    "Ratings_Difference": -3.98
   },
   {
-    "Show Name": "Game of Thrones",
-    "Average Rating": 8.83,
-    "Final Episode Rating": 4,
-    "Ratings Difference": -4.83
+    "Show_Name": "Game of Thrones",
+    "Average_Rating": 8.83,
+    "Final_Episode_Rating": 4,
+    "Ratings_Difference": -4.83
   },
   {
-    "Show Name": "House of Cards",
-    "Average Rating": 8,
-    "Final Episode Rating": 2.5,
-    "Ratings Difference": -5.5
+    "Show_Name": "House of Cards",
+    "Average_Rating": 8,
+    "Final_Episode_Rating": 2.5,
+    "Ratings_Difference": -5.5
   }
 ]
