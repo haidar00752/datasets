@@ -1,0 +1,8816 @@
+[
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 1,
+    "Viewer_Count": "2,596",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 2,
+    "Viewer_Count": "2,167",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 3,
+    "Viewer_Count": "2,133",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 4,
+    "Viewer_Count": "2,225",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 5,
+    "Viewer_Count": "2,041",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 6,
+    "Viewer_Count": "1,914",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 7,
+    "Viewer_Count": "2,064",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 8,
+    "Viewer_Count": "2,063",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 9,
+    "Viewer_Count": "1,937",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 10,
+    "Viewer_Count": "1,853",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 11,
+    "Viewer_Count": "1,841",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 12,
+    "Viewer_Count": "1,823",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 13,
+    "Viewer_Count": "5,972",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 14,
+    "Viewer_Count": "2,171",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 15,
+    "Viewer_Count": "3,723",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 16,
+    "Viewer_Count": "1,826",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 17,
+    "Viewer_Count": "1,828",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 18,
+    "Viewer_Count": "2,062",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 19,
+    "Viewer_Count": "2,050",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 20,
+    "Viewer_Count": "2,045",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 21,
+    "Viewer_Count": "1,969",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 22,
+    "Viewer_Count": "1,983",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 23,
+    "Viewer_Count": "2,299",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 24,
+    "Viewer_Count": "1,819",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 25,
+    "Viewer_Count": "1,856",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 26,
+    "Viewer_Count": "1,743",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 27,
+    "Viewer_Count": "1,758",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 28,
+    "Viewer_Count": "1,839",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 29,
+    "Viewer_Count": "1,670",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 30,
+    "Viewer_Count": "1,748",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 31,
+    "Viewer_Count": "1,885",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 32,
+    "Viewer_Count": "7,309",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 33,
+    "Viewer_Count": "1,937",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 34,
+    "Viewer_Count": "3,535",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 35,
+    "Viewer_Count": "4,268",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 36,
+    "Viewer_Count": "2,765",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 37,
+    "Viewer_Count": "2,578",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 38,
+    "Viewer_Count": "2,671",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 39,
+    "Viewer_Count": "2,317",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 40,
+    "Viewer_Count": "2,064",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 41,
+    "Viewer_Count": "2,299",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 42,
+    "Viewer_Count": "1,984",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 43,
+    "Viewer_Count": "1,981",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 44,
+    "Viewer_Count": "1,856",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 45,
+    "Viewer_Count": "1,813",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 46,
+    "Viewer_Count": "1,838",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 47,
+    "Viewer_Count": "1,737",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 48,
+    "Viewer_Count": "8,145",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 49,
+    "Viewer_Count": "3,652",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 50,
+    "Viewer_Count": "3,123",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 51,
+    "Viewer_Count": "2,841",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 52,
+    "Viewer_Count": "2,870",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,131",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 54,
+    "Viewer_Count": "2,997",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 55,
+    "Viewer_Count": "3,067",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 56,
+    "Viewer_Count": "2,610",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 57,
+    "Viewer_Count": "2,848",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 58,
+    "Viewer_Count": "3,034",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 59,
+    "Viewer_Count": "2,415",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 60,
+    "Viewer_Count": "1,834",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 61,
+    "Viewer_Count": "3,513",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 62,
+    "Viewer_Count": "3,517",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 63,
+    "Viewer_Count": "3,939",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 64,
+    "Viewer_Count": "3,569",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 65,
+    "Viewer_Count": "2,914",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 66,
+    "Viewer_Count": "3,120",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 67,
+    "Viewer_Count": "3,179",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 68,
+    "Viewer_Count": "4,000",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 69,
+    "Viewer_Count": "3,048",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 70,
+    "Viewer_Count": "3,449",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 71,
+    "Viewer_Count": "4,664",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 72,
+    "Viewer_Count": "2,886",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 73,
+    "Viewer_Count": "3,315",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 74,
+    "Viewer_Count": "2,660",
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 75,
+    "Viewer_Count": "2,759",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 76,
+    "Viewer_Count": "2,637",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 77,
+    "Viewer_Count": "2,924",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 78,
+    "Viewer_Count": "4,005",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 79,
+    "Viewer_Count": "3,011",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 80,
+    "Viewer_Count": "2,569",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 81,
+    "Viewer_Count": "2,094",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 82,
+    "Viewer_Count": "3,048",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 83,
+    "Viewer_Count": "2,649",
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 84,
+    "Viewer_Count": "2,637",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 85,
+    "Viewer_Count": "2,538",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 86,
+    "Viewer_Count": "2,277",
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 87,
+    "Viewer_Count": "3,650",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 88,
+    "Viewer_Count": "4,224",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 89,
+    "Viewer_Count": "3,207",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 90,
+    "Viewer_Count": "3,895",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 91,
+    "Viewer_Count": "2,977",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 92,
+    "Viewer_Count": "2,940",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 93,
+    "Viewer_Count": "3,028",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 94,
+    "Viewer_Count": "4,762",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 95,
+    "Viewer_Count": "2,992",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 96,
+    "Viewer_Count": "2,927",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 97,
+    "Viewer_Count": "2,570",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 98,
+    "Viewer_Count": "3,102",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 99,
+    "Viewer_Count": "2,548",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 100,
+    "Viewer_Count": "2,978",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 101,
+    "Viewer_Count": "2,832",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 102,
+    "Viewer_Count": "2,472",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 103,
+    "Viewer_Count": "2,574",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 104,
+    "Viewer_Count": "2,720",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 105,
+    "Viewer_Count": "2,261",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 106,
+    "Viewer_Count": "2,322",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 107,
+    "Viewer_Count": "2,305",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 108,
+    "Viewer_Count": "2,280",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 109,
+    "Viewer_Count": "2,081",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 110,
+    "Viewer_Count": "4,299",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 111,
+    "Viewer_Count": "4,100",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 112,
+    "Viewer_Count": "4,400",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 113,
+    "Viewer_Count": "3,598",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 114,
+    "Viewer_Count": "3,222",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 115,
+    "Viewer_Count": "3,066",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 116,
+    "Viewer_Count": "3,137",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 117,
+    "Viewer_Count": "3,219",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 118,
+    "Viewer_Count": "3,212",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 119,
+    "Viewer_Count": "3,409",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 120,
+    "Viewer_Count": "3,569",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 121,
+    "Viewer_Count": "3,410",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 122,
+    "Viewer_Count": "2,791",
+    "IMDB_Rating": 6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 123,
+    "Viewer_Count": "2,949",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 124,
+    "Viewer_Count": "2,833",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 125,
+    "Viewer_Count": "2,919",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 126,
+    "Viewer_Count": "2,678",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 127,
+    "Viewer_Count": "2,701",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 128,
+    "Viewer_Count": "4,811",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 129,
+    "Viewer_Count": "2,519",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 130,
+    "Viewer_Count": "2,895",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 131,
+    "Viewer_Count": "2,243",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 132,
+    "Viewer_Count": "2,768",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 133,
+    "Viewer_Count": "2,182",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 134,
+    "Viewer_Count": "2,522",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 135,
+    "Viewer_Count": "2,472",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 136,
+    "Viewer_Count": "2,615",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 137,
+    "Viewer_Count": "2,193",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 138,
+    "Viewer_Count": "4,547",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 139,
+    "Viewer_Count": "4,145",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 140,
+    "Viewer_Count": "3,760",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 141,
+    "Viewer_Count": "3,697",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 142,
+    "Viewer_Count": "3,331",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 143,
+    "Viewer_Count": "3,240",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 144,
+    "Viewer_Count": "3,087",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 145,
+    "Viewer_Count": "2,741",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 146,
+    "Viewer_Count": "3,189",
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 147,
+    "Viewer_Count": "2,969",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 148,
+    "Viewer_Count": "2,585",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 149,
+    "Viewer_Count": "3,687",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 150,
+    "Viewer_Count": "2,587",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 151,
+    "Viewer_Count": "2,426",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 152,
+    "Viewer_Count": "2,505",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 153,
+    "Viewer_Count": "2,526",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 154,
+    "Viewer_Count": "2,503",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 155,
+    "Viewer_Count": "2,732",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 156,
+    "Viewer_Count": "3,021",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 157,
+    "Viewer_Count": "2,619",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 158,
+    "Viewer_Count": "2,434",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 159,
+    "Viewer_Count": "3,201",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 160,
+    "Viewer_Count": "2,288",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 161,
+    "Viewer_Count": "2,185",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 162,
+    "Viewer_Count": "5,485",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 163,
+    "Viewer_Count": "4,405",
+    "IMDB_Rating": 6.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 164,
+    "Viewer_Count": "3,753",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 165,
+    "Viewer_Count": "3,707",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 166,
+    "Viewer_Count": "4,088",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 167,
+    "Viewer_Count": "3,629",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 168,
+    "Viewer_Count": "3,616",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 169,
+    "Viewer_Count": "3,261",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 170,
+    "Viewer_Count": "5,230",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 171,
+    "Viewer_Count": "2,786",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 172,
+    "Viewer_Count": "4,030",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 173,
+    "Viewer_Count": "2,488",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 174,
+    "Viewer_Count": "2,334",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 175,
+    "Viewer_Count": "2,554",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 176,
+    "Viewer_Count": "2,263",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 177,
+    "Viewer_Count": "3,093",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 178,
+    "Viewer_Count": "2,311",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 179,
+    "Viewer_Count": "4,235",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 180,
+    "Viewer_Count": "3,505",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 181,
+    "Viewer_Count": "4,122",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 182,
+    "Viewer_Count": "3,188",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 183,
+    "Viewer_Count": "3,121",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 184,
+    "Viewer_Count": "2,597",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 185,
+    "Viewer_Count": "2,580",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 186,
+    "Viewer_Count": "2,379",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 187,
+    "Viewer_Count": "9,821",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 188,
+    "Viewer_Count": "5,854",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 189,
+    "Viewer_Count": "3,387",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 190,
+    "Viewer_Count": "3,588",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 191,
+    "Viewer_Count": "3,512",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 192,
+    "Viewer_Count": "4,769",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 193,
+    "Viewer_Count": "3,692",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 194,
+    "Viewer_Count": "3,193",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 195,
+    "Viewer_Count": "3,015",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 196,
+    "Viewer_Count": "4,802",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 197,
+    "Viewer_Count": "4,456",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 198,
+    "Viewer_Count": "4,425",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 199,
+    "Viewer_Count": "5,706",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 200,
+    "Viewer_Count": "2,641",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 201,
+    "Viewer_Count": "2,393",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 202,
+    "Viewer_Count": "4,927",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 203,
+    "Viewer_Count": "2,031",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 204,
+    "Viewer_Count": "2,119",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 205,
+    "Viewer_Count": "1,911",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 206,
+    "Viewer_Count": "3,011",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 207,
+    "Viewer_Count": "4,451",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 208,
+    "Viewer_Count": "4,828",
+    "IMDB_Rating": 6.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 209,
+    "Viewer_Count": "3,979",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 210,
+    "Viewer_Count": "3,349",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 211,
+    "Viewer_Count": "2,773",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 212,
+    "Viewer_Count": "2,700",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 213,
+    "Viewer_Count": "3,507",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 214,
+    "Viewer_Count": "2,310",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 215,
+    "Viewer_Count": "2,045",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 216,
+    "Viewer_Count": "3,013",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "X-Files",
+    "Episode_Number": 217,
+    "Viewer_Count": "1,858",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 1,
+    "Viewer_Count": "5,396",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 2,
+    "Viewer_Count": "5,268",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 3,
+    "Viewer_Count": "4,419",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 4,
+    "Viewer_Count": "4,303",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 5,
+    "Viewer_Count": "4,719",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 6,
+    "Viewer_Count": "4,224",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 7,
+    "Viewer_Count": "4,736",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 8,
+    "Viewer_Count": "4,032",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 9,
+    "Viewer_Count": "4,014",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 10,
+    "Viewer_Count": "3,964",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 11,
+    "Viewer_Count": "3,721",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 12,
+    "Viewer_Count": "3,728",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 13,
+    "Viewer_Count": "3,898",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 14,
+    "Viewer_Count": "3,552",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 15,
+    "Viewer_Count": "3,660",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 16,
+    "Viewer_Count": "4,029",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 17,
+    "Viewer_Count": "3,883",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 18,
+    "Viewer_Count": "4,719",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 19,
+    "Viewer_Count": "3,456",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 20,
+    "Viewer_Count": "3,416",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 21,
+    "Viewer_Count": "3,390",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 22,
+    "Viewer_Count": "3,400",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 23,
+    "Viewer_Count": "3,603",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 24,
+    "Viewer_Count": "3,515",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 25,
+    "Viewer_Count": "3,390",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 26,
+    "Viewer_Count": "3,475",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 27,
+    "Viewer_Count": "3,563",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 28,
+    "Viewer_Count": "5,188",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 29,
+    "Viewer_Count": "4,525",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 30,
+    "Viewer_Count": "3,308",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 31,
+    "Viewer_Count": "3,467",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 32,
+    "Viewer_Count": "3,331",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 33,
+    "Viewer_Count": "3,245",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 34,
+    "Viewer_Count": "3,386",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 35,
+    "Viewer_Count": "3,313",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 36,
+    "Viewer_Count": "3,467",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 37,
+    "Viewer_Count": "3,465",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 38,
+    "Viewer_Count": "3,669",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 39,
+    "Viewer_Count": "3,297",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 40,
+    "Viewer_Count": "3,346",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 41,
+    "Viewer_Count": "3,522",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 42,
+    "Viewer_Count": "3,252",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 43,
+    "Viewer_Count": "3,277",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 44,
+    "Viewer_Count": "3,795",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 45,
+    "Viewer_Count": "3,260",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 46,
+    "Viewer_Count": "3,709",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 47,
+    "Viewer_Count": "3,466",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 48,
+    "Viewer_Count": "3,427",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 49,
+    "Viewer_Count": "3,462",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 50,
+    "Viewer_Count": "3,979",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 51,
+    "Viewer_Count": "4,243",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 52,
+    "Viewer_Count": "3,970",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,226",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 54,
+    "Viewer_Count": "3,118",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 55,
+    "Viewer_Count": "3,363",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 56,
+    "Viewer_Count": "3,437",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 57,
+    "Viewer_Count": "3,176",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 58,
+    "Viewer_Count": "3,052",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 59,
+    "Viewer_Count": "3,216",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 60,
+    "Viewer_Count": "6,169",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 61,
+    "Viewer_Count": "3,016",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 62,
+    "Viewer_Count": "3,139",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 63,
+    "Viewer_Count": "3,020",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 64,
+    "Viewer_Count": "2,874",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 65,
+    "Viewer_Count": "4,320",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 66,
+    "Viewer_Count": "3,556",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 67,
+    "Viewer_Count": "2,893",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 68,
+    "Viewer_Count": "2,868",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 69,
+    "Viewer_Count": "2,750",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 70,
+    "Viewer_Count": "2,843",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 71,
+    "Viewer_Count": "2,972",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 72,
+    "Viewer_Count": "2,757",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 73,
+    "Viewer_Count": "3,070",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 74,
+    "Viewer_Count": "3,054",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 75,
+    "Viewer_Count": "2,860",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 76,
+    "Viewer_Count": "2,979",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 77,
+    "Viewer_Count": "2,861",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 78,
+    "Viewer_Count": "8,979",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 79,
+    "Viewer_Count": "2,714",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 80,
+    "Viewer_Count": "2,676",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 81,
+    "Viewer_Count": "2,699",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 82,
+    "Viewer_Count": "2,933",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 83,
+    "Viewer_Count": "2,746",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 84,
+    "Viewer_Count": "2,730",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 85,
+    "Viewer_Count": "2,714",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 86,
+    "Viewer_Count": "2,979",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 87,
+    "Viewer_Count": "2,822",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 88,
+    "Viewer_Count": "3,761",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 89,
+    "Viewer_Count": "2,700",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 90,
+    "Viewer_Count": "3,118",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 91,
+    "Viewer_Count": "3,248",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 92,
+    "Viewer_Count": "3,161",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 93,
+    "Viewer_Count": "2,580",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 94,
+    "Viewer_Count": "2,574",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 95,
+    "Viewer_Count": "4,973",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 96,
+    "Viewer_Count": "3,577",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 97,
+    "Viewer_Count": "2,715",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 98,
+    "Viewer_Count": "2,858",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 99,
+    "Viewer_Count": "2,596",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 100,
+    "Viewer_Count": "2,546",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 101,
+    "Viewer_Count": "3,065",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 102,
+    "Viewer_Count": "2,577",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 103,
+    "Viewer_Count": "2,948",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 104,
+    "Viewer_Count": "2,714",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 105,
+    "Viewer_Count": "3,341",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 106,
+    "Viewer_Count": "2,475",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 107,
+    "Viewer_Count": "2,447",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 108,
+    "Viewer_Count": "2,588",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 109,
+    "Viewer_Count": "2,605",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 110,
+    "Viewer_Count": "2,414",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 111,
+    "Viewer_Count": "2,379",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 112,
+    "Viewer_Count": "2,764",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 113,
+    "Viewer_Count": "2,386",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 114,
+    "Viewer_Count": "2,417",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 115,
+    "Viewer_Count": "2,425",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 116,
+    "Viewer_Count": "2,333",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 117,
+    "Viewer_Count": "2,415",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 118,
+    "Viewer_Count": "2,778",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 119,
+    "Viewer_Count": "2,506",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 120,
+    "Viewer_Count": "2,674",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 121,
+    "Viewer_Count": "2,433",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 122,
+    "Viewer_Count": "2,379",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 123,
+    "Viewer_Count": "2,484",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 124,
+    "Viewer_Count": "2,471",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 125,
+    "Viewer_Count": "2,425",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 126,
+    "Viewer_Count": "2,354",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 127,
+    "Viewer_Count": "2,490",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 128,
+    "Viewer_Count": "3,175",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 129,
+    "Viewer_Count": "2,526",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 130,
+    "Viewer_Count": "2,391",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 131,
+    "Viewer_Count": "2,634",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 132,
+    "Viewer_Count": "2,592",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 133,
+    "Viewer_Count": "5,400",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 134,
+    "Viewer_Count": "2,359",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 135,
+    "Viewer_Count": "4,181",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 136,
+    "Viewer_Count": "2,438",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 137,
+    "Viewer_Count": "3,400",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 138,
+    "Viewer_Count": "9,013",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 139,
+    "Viewer_Count": "2,422",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 140,
+    "Viewer_Count": "2,679",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 141,
+    "Viewer_Count": "2,867",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 142,
+    "Viewer_Count": "2,595",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 143,
+    "Viewer_Count": "2,427",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 144,
+    "Viewer_Count": "2,320",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 145,
+    "Viewer_Count": "2,520",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 146,
+    "Viewer_Count": "2,253",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 147,
+    "Viewer_Count": "2,171",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 148,
+    "Viewer_Count": "2,321",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 149,
+    "Viewer_Count": "2,334",
+    "IMDB_Rating": 6.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 150,
+    "Viewer_Count": "2,294",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 151,
+    "Viewer_Count": "2,247",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 152,
+    "Viewer_Count": "2,208",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 153,
+    "Viewer_Count": "2,384",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 154,
+    "Viewer_Count": "2,158",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 155,
+    "Viewer_Count": "2,107",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 156,
+    "Viewer_Count": "2,224",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 157,
+    "Viewer_Count": "2,299",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 158,
+    "Viewer_Count": "2,178",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 159,
+    "Viewer_Count": "2,115",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 160,
+    "Viewer_Count": "2,470",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 161,
+    "Viewer_Count": "2,189",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 162,
+    "Viewer_Count": "2,353",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 163,
+    "Viewer_Count": "2,121",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 164,
+    "Viewer_Count": "2,045",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 165,
+    "Viewer_Count": "2,139",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 166,
+    "Viewer_Count": "2,306",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 167,
+    "Viewer_Count": "2,195",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 168,
+    "Viewer_Count": "2,171",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 169,
+    "Viewer_Count": "2,308",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 170,
+    "Viewer_Count": "2,247",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 171,
+    "Viewer_Count": "2,188",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 172,
+    "Viewer_Count": "2,084",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 173,
+    "Viewer_Count": "2,156",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 174,
+    "Viewer_Count": "2,469",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 175,
+    "Viewer_Count": "2,170",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 176,
+    "Viewer_Count": "2,133",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 177,
+    "Viewer_Count": "2,205",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 178,
+    "Viewer_Count": "2,080",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 179,
+    "Viewer_Count": "2,075",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 180,
+    "Viewer_Count": "2,106",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 181,
+    "Viewer_Count": "2,318",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 182,
+    "Viewer_Count": "2,424",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 183,
+    "Viewer_Count": "2,139",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 184,
+    "Viewer_Count": "2,211",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 185,
+    "Viewer_Count": "2,246",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 186,
+    "Viewer_Count": "3,203",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 187,
+    "Viewer_Count": "4,404",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "The Office",
+    "Episode_Number": 188,
+    "Viewer_Count": "11,544",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 1,
+    "Viewer_Count": "2,818",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 2,
+    "Viewer_Count": "2,207",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 3,
+    "Viewer_Count": "2,168",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 4,
+    "Viewer_Count": "2,062",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 5,
+    "Viewer_Count": "1,934",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 6,
+    "Viewer_Count": "2,034",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 7,
+    "Viewer_Count": "1,913",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 8,
+    "Viewer_Count": "1,897",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 9,
+    "Viewer_Count": "1,972",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 10,
+    "Viewer_Count": "1,962",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 11,
+    "Viewer_Count": "1,837",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 12,
+    "Viewer_Count": "1,775",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 13,
+    "Viewer_Count": "1,986",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 14,
+    "Viewer_Count": "1,697",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 15,
+    "Viewer_Count": "1,717",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 16,
+    "Viewer_Count": "1,663",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 17,
+    "Viewer_Count": "1,801",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 18,
+    "Viewer_Count": "1,725",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 19,
+    "Viewer_Count": "1,584",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 20,
+    "Viewer_Count": "1,572",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 21,
+    "Viewer_Count": "1,556",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 22,
+    "Viewer_Count": "1,660",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 23,
+    "Viewer_Count": "1,620",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 24,
+    "Viewer_Count": "1,542",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 25,
+    "Viewer_Count": "1,628",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 26,
+    "Viewer_Count": "1,530",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 27,
+    "Viewer_Count": "1,714",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 28,
+    "Viewer_Count": "1,536",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 29,
+    "Viewer_Count": "1,767",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 30,
+    "Viewer_Count": "1,559",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 31,
+    "Viewer_Count": "1,757",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 32,
+    "Viewer_Count": "1,513",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 33,
+    "Viewer_Count": "1,932",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 34,
+    "Viewer_Count": "2,023",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 35,
+    "Viewer_Count": "1,439",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 36,
+    "Viewer_Count": "1,633",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 37,
+    "Viewer_Count": "1,463",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 38,
+    "Viewer_Count": "1,447",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 39,
+    "Viewer_Count": "3,395",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 40,
+    "Viewer_Count": "1,451",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 41,
+    "Viewer_Count": "1,557",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 42,
+    "Viewer_Count": "1,453",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 43,
+    "Viewer_Count": "1,664",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 44,
+    "Viewer_Count": "1,478",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 45,
+    "Viewer_Count": "2,117",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 46,
+    "Viewer_Count": "1,462",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 47,
+    "Viewer_Count": "1,549",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 48,
+    "Viewer_Count": "1,453",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 49,
+    "Viewer_Count": "1,749",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 50,
+    "Viewer_Count": "1,405",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 51,
+    "Viewer_Count": "1,448",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 52,
+    "Viewer_Count": "2,136",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 53,
+    "Viewer_Count": "1,415",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 54,
+    "Viewer_Count": "1,373",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 55,
+    "Viewer_Count": "1,385",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 56,
+    "Viewer_Count": "1,769",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 57,
+    "Viewer_Count": "1,367",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 58,
+    "Viewer_Count": "4,439",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 59,
+    "Viewer_Count": "1,343",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 60,
+    "Viewer_Count": "1,363",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 61,
+    "Viewer_Count": "1,387",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 62,
+    "Viewer_Count": "1,368",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 63,
+    "Viewer_Count": "1,446",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 64,
+    "Viewer_Count": "1,602",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 65,
+    "Viewer_Count": "2,304",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 66,
+    "Viewer_Count": "1,740",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 67,
+    "Viewer_Count": "1,454",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 68,
+    "Viewer_Count": "1,367",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 69,
+    "Viewer_Count": "1,349",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 70,
+    "Viewer_Count": "1,340",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 71,
+    "Viewer_Count": "1,342",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 72,
+    "Viewer_Count": "2,343",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 73,
+    "Viewer_Count": "1,667",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 74,
+    "Viewer_Count": 20,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 75,
+    "Viewer_Count": "1,471",
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 76,
+    "Viewer_Count": 20,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 77,
+    "Viewer_Count": "1,514",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 78,
+    "Viewer_Count": 20,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 79,
+    "Viewer_Count": "1,338",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 80,
+    "Viewer_Count": 21,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 81,
+    "Viewer_Count": "1,367",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 82,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 83,
+    "Viewer_Count": "1,724",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 84,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 85,
+    "Viewer_Count": "2,744",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 86,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 87,
+    "Viewer_Count": "1,263",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 88,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 89,
+    "Viewer_Count": "1,310",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 90,
+    "Viewer_Count": 17,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 91,
+    "Viewer_Count": "1,356",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 92,
+    "Viewer_Count": 17,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 93,
+    "Viewer_Count": "1,163",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 94,
+    "Viewer_Count": 19,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 95,
+    "Viewer_Count": "1,126",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 96,
+    "Viewer_Count": 19,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 97,
+    "Viewer_Count": "1,202",
+    "IMDB_Rating": 6.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 98,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 99,
+    "Viewer_Count": "1,205",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 100,
+    "Viewer_Count": 17,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 101,
+    "Viewer_Count": "1,184",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 102,
+    "Viewer_Count": 18,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 103,
+    "Viewer_Count": "1,081",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 104,
+    "Viewer_Count": 19,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 105,
+    "Viewer_Count": "1,168",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 106,
+    "Viewer_Count": "1,073",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 107,
+    "Viewer_Count": "1,078",
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 108,
+    "Viewer_Count": "1,036",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 109,
+    "Viewer_Count": "1,057",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 110,
+    "Viewer_Count": 994,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 111,
+    "Viewer_Count": "1,075",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 112,
+    "Viewer_Count": "1,060",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 113,
+    "Viewer_Count": "1,105",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 114,
+    "Viewer_Count": "1,243",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 115,
+    "Viewer_Count": "1,254",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 116,
+    "Viewer_Count": "1,074",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 117,
+    "Viewer_Count": "1,108",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 118,
+    "Viewer_Count": "1,010",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 119,
+    "Viewer_Count": 997,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 120,
+    "Viewer_Count": "1,003",
+    "IMDB_Rating": 7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 121,
+    "Viewer_Count": "1,017",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 122,
+    "Viewer_Count": "1,035",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 123,
+    "Viewer_Count": 969,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 124,
+    "Viewer_Count": 997,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 125,
+    "Viewer_Count": 938,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 126,
+    "Viewer_Count": 963,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 127,
+    "Viewer_Count": "1,110",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 128,
+    "Viewer_Count": 973,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 129,
+    "Viewer_Count": 978,
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 130,
+    "Viewer_Count": 930,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 131,
+    "Viewer_Count": 968,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 132,
+    "Viewer_Count": 934,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 133,
+    "Viewer_Count": "1,145",
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 134,
+    "Viewer_Count": 937,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 135,
+    "Viewer_Count": 932,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 136,
+    "Viewer_Count": 906,
+    "IMDB_Rating": 7.1
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 137,
+    "Viewer_Count": "1,391",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 138,
+    "Viewer_Count": "1,173",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 139,
+    "Viewer_Count": "1,138",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Futurama",
+    "Episode_Number": 140,
+    "Viewer_Count": "2,714",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 1,
+    "Viewer_Count": "7,289",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 2,
+    "Viewer_Count": "5,058",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 3,
+    "Viewer_Count": "4,727",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 4,
+    "Viewer_Count": "4,638",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 5,
+    "Viewer_Count": "4,454",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 6,
+    "Viewer_Count": "4,654",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 7,
+    "Viewer_Count": "4,339",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 8,
+    "Viewer_Count": "4,641",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 9,
+    "Viewer_Count": "4,217",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 10,
+    "Viewer_Count": "4,759",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 11,
+    "Viewer_Count": "4,846",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 12,
+    "Viewer_Count": "7,488",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 13,
+    "Viewer_Count": "4,325",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 14,
+    "Viewer_Count": "3,924",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 15,
+    "Viewer_Count": "3,883",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 16,
+    "Viewer_Count": "3,713",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 17,
+    "Viewer_Count": "3,841",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 18,
+    "Viewer_Count": "3,721",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 19,
+    "Viewer_Count": "3,779",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 20,
+    "Viewer_Count": "3,928",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 21,
+    "Viewer_Count": "4,362",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 22,
+    "Viewer_Count": "3,812",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 23,
+    "Viewer_Count": "3,815",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 24,
+    "Viewer_Count": "4,641",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 25,
+    "Viewer_Count": "3,703",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 26,
+    "Viewer_Count": "3,456",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 27,
+    "Viewer_Count": "3,340",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 28,
+    "Viewer_Count": "3,302",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 29,
+    "Viewer_Count": "3,273",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 30,
+    "Viewer_Count": "3,239",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 31,
+    "Viewer_Count": "3,343",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 32,
+    "Viewer_Count": "3,279",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 33,
+    "Viewer_Count": "3,335",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 34,
+    "Viewer_Count": "3,534",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 35,
+    "Viewer_Count": "3,379",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 36,
+    "Viewer_Count": "3,662",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 37,
+    "Viewer_Count": "3,764",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 38,
+    "Viewer_Count": "3,352",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 39,
+    "Viewer_Count": "3,249",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 40,
+    "Viewer_Count": "3,831",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 41,
+    "Viewer_Count": "3,481",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 42,
+    "Viewer_Count": "3,293",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 43,
+    "Viewer_Count": "3,226",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 44,
+    "Viewer_Count": "3,237",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 45,
+    "Viewer_Count": "4,552",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 46,
+    "Viewer_Count": "3,775",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 47,
+    "Viewer_Count": "4,903",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 48,
+    "Viewer_Count": "10,540",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 49,
+    "Viewer_Count": "4,212",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 50,
+    "Viewer_Count": "3,200",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 51,
+    "Viewer_Count": "3,144",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 52,
+    "Viewer_Count": "3,127",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,076",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 54,
+    "Viewer_Count": "3,354",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 55,
+    "Viewer_Count": "3,064",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 56,
+    "Viewer_Count": "3,250",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 57,
+    "Viewer_Count": "3,388",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 58,
+    "Viewer_Count": "3,396",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 59,
+    "Viewer_Count": "3,237",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 60,
+    "Viewer_Count": "3,936",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 61,
+    "Viewer_Count": "4,262",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 62,
+    "Viewer_Count": "3,272",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 63,
+    "Viewer_Count": "3,144",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 64,
+    "Viewer_Count": "3,157",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 65,
+    "Viewer_Count": "3,079",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 66,
+    "Viewer_Count": "3,189",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 67,
+    "Viewer_Count": "3,389",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 68,
+    "Viewer_Count": "3,017",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 69,
+    "Viewer_Count": "3,338",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 70,
+    "Viewer_Count": "3,013",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 71,
+    "Viewer_Count": "3,143",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 72,
+    "Viewer_Count": "5,144",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 73,
+    "Viewer_Count": "7,568",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 74,
+    "Viewer_Count": "3,954",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 75,
+    "Viewer_Count": "3,578",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 76,
+    "Viewer_Count": "3,693",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 77,
+    "Viewer_Count": "3,310",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 78,
+    "Viewer_Count": "3,357",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 79,
+    "Viewer_Count": "3,318",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 80,
+    "Viewer_Count": "3,931",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 81,
+    "Viewer_Count": "3,290",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 82,
+    "Viewer_Count": "3,171",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 83,
+    "Viewer_Count": "3,528",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 84,
+    "Viewer_Count": "5,390",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 85,
+    "Viewer_Count": "4,807",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 86,
+    "Viewer_Count": "3,490",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 87,
+    "Viewer_Count": "3,353",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 88,
+    "Viewer_Count": "3,372",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 89,
+    "Viewer_Count": "3,249",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 90,
+    "Viewer_Count": "3,266",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 91,
+    "Viewer_Count": "3,368",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 92,
+    "Viewer_Count": "3,633",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 93,
+    "Viewer_Count": "3,561",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 94,
+    "Viewer_Count": "4,009",
+    "IMDB_Rating": 6.9
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 95,
+    "Viewer_Count": "4,281",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Dexter",
+    "Episode_Number": 96,
+    "Viewer_Count": "17,365",
+    "IMDB_Rating": 4.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 1,
+    "Viewer_Count": "5,176",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 2,
+    "Viewer_Count": "3,906",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 3,
+    "Viewer_Count": "3,704",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 4,
+    "Viewer_Count": "3,476",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 5,
+    "Viewer_Count": "3,601",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 6,
+    "Viewer_Count": "3,474",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 7,
+    "Viewer_Count": "3,272",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 8,
+    "Viewer_Count": "3,230",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 9,
+    "Viewer_Count": "3,230",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 10,
+    "Viewer_Count": "4,913",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 11,
+    "Viewer_Count": "3,363",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 12,
+    "Viewer_Count": "3,157",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 13,
+    "Viewer_Count": "3,570",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 14,
+    "Viewer_Count": "3,065",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 15,
+    "Viewer_Count": "3,994",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 16,
+    "Viewer_Count": "2,955",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 17,
+    "Viewer_Count": "2,932",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 18,
+    "Viewer_Count": "3,229",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 19,
+    "Viewer_Count": "3,510",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 20,
+    "Viewer_Count": "2,934",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 21,
+    "Viewer_Count": "2,954",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 22,
+    "Viewer_Count": "3,626",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 23,
+    "Viewer_Count": "2,929",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 24,
+    "Viewer_Count": "2,864",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 25,
+    "Viewer_Count": "2,984",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 26,
+    "Viewer_Count": "3,370",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 27,
+    "Viewer_Count": "3,197",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 28,
+    "Viewer_Count": "2,870",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 29,
+    "Viewer_Count": "4,008",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 30,
+    "Viewer_Count": "2,802",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 31,
+    "Viewer_Count": "5,833",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 32,
+    "Viewer_Count": "2,855",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 33,
+    "Viewer_Count": "2,832",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 34,
+    "Viewer_Count": "2,916",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 35,
+    "Viewer_Count": "2,697",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 36,
+    "Viewer_Count": "2,892",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 37,
+    "Viewer_Count": "2,828",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 38,
+    "Viewer_Count": "2,964",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 39,
+    "Viewer_Count": "2,912",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 40,
+    "Viewer_Count": "2,693",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 41,
+    "Viewer_Count": "2,836",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 42,
+    "Viewer_Count": "3,113",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 43,
+    "Viewer_Count": "2,935",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 44,
+    "Viewer_Count": "2,989",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 45,
+    "Viewer_Count": "2,972",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 46,
+    "Viewer_Count": "2,647",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 47,
+    "Viewer_Count": "2,751",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 48,
+    "Viewer_Count": "2,644",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 49,
+    "Viewer_Count": "3,658",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 50,
+    "Viewer_Count": "2,614",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 51,
+    "Viewer_Count": "2,648",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 52,
+    "Viewer_Count": "3,652",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,505",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 54,
+    "Viewer_Count": "2,690",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 55,
+    "Viewer_Count": "2,802",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 56,
+    "Viewer_Count": "2,714",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 57,
+    "Viewer_Count": "3,232",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 58,
+    "Viewer_Count": "2,843",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 59,
+    "Viewer_Count": "2,595",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 60,
+    "Viewer_Count": "2,842",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 61,
+    "Viewer_Count": "2,612",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 62,
+    "Viewer_Count": "2,578",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 63,
+    "Viewer_Count": "2,584",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 64,
+    "Viewer_Count": "2,813",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 65,
+    "Viewer_Count": "3,003",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 66,
+    "Viewer_Count": "3,137",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 67,
+    "Viewer_Count": "2,589",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 68,
+    "Viewer_Count": "3,078",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 69,
+    "Viewer_Count": "2,684",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 70,
+    "Viewer_Count": "2,564",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 71,
+    "Viewer_Count": "2,510",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 72,
+    "Viewer_Count": "2,688",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 73,
+    "Viewer_Count": "4,279",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 74,
+    "Viewer_Count": "2,659",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 75,
+    "Viewer_Count": "2,625",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 76,
+    "Viewer_Count": "2,824",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 77,
+    "Viewer_Count": "2,788",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 78,
+    "Viewer_Count": "2,684",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 79,
+    "Viewer_Count": "2,731",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 80,
+    "Viewer_Count": "2,596",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 81,
+    "Viewer_Count": "2,691",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 82,
+    "Viewer_Count": "2,476",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 83,
+    "Viewer_Count": "2,676",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 84,
+    "Viewer_Count": "2,497",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 85,
+    "Viewer_Count": "2,799",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 86,
+    "Viewer_Count": "2,593",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 87,
+    "Viewer_Count": "2,519",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 88,
+    "Viewer_Count": "2,966",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 89,
+    "Viewer_Count": "2,863",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 90,
+    "Viewer_Count": "2,579",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 91,
+    "Viewer_Count": "2,664",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 92,
+    "Viewer_Count": "2,709",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 93,
+    "Viewer_Count": "2,518",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 94,
+    "Viewer_Count": "2,443",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 95,
+    "Viewer_Count": "2,578",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 96,
+    "Viewer_Count": "5,520",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 97,
+    "Viewer_Count": "2,663",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 98,
+    "Viewer_Count": "2,592",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 99,
+    "Viewer_Count": "2,725",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 100,
+    "Viewer_Count": "4,354",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 101,
+    "Viewer_Count": "2,864",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 102,
+    "Viewer_Count": "3,094",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 103,
+    "Viewer_Count": "2,558",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 104,
+    "Viewer_Count": "2,504",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 105,
+    "Viewer_Count": "2,797",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 106,
+    "Viewer_Count": "2,567",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 107,
+    "Viewer_Count": "2,501",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 108,
+    "Viewer_Count": "2,492",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 109,
+    "Viewer_Count": "2,437",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 110,
+    "Viewer_Count": "2,583",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 111,
+    "Viewer_Count": "2,713",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 112,
+    "Viewer_Count": "2,643",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 113,
+    "Viewer_Count": "2,737",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 114,
+    "Viewer_Count": "2,758",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 115,
+    "Viewer_Count": "2,463",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 116,
+    "Viewer_Count": "2,840",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 117,
+    "Viewer_Count": "2,410",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 118,
+    "Viewer_Count": "2,421",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 119,
+    "Viewer_Count": "2,384",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 120,
+    "Viewer_Count": "2,500",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 121,
+    "Viewer_Count": "2,931",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 122,
+    "Viewer_Count": "3,948",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 123,
+    "Viewer_Count": "2,530",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 124,
+    "Viewer_Count": "2,489",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 125,
+    "Viewer_Count": "3,602",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 126,
+    "Viewer_Count": "2,974",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 127,
+    "Viewer_Count": "3,324",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 128,
+    "Viewer_Count": "2,436",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 129,
+    "Viewer_Count": "2,310",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 130,
+    "Viewer_Count": "2,528",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 131,
+    "Viewer_Count": "2,671",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 132,
+    "Viewer_Count": "2,333",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 133,
+    "Viewer_Count": "2,338",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 134,
+    "Viewer_Count": "2,348",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 135,
+    "Viewer_Count": "2,288",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 136,
+    "Viewer_Count": "2,689",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 137,
+    "Viewer_Count": "3,388",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 138,
+    "Viewer_Count": "2,692",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 139,
+    "Viewer_Count": "3,424",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 140,
+    "Viewer_Count": "2,551",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 141,
+    "Viewer_Count": "2,416",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 142,
+    "Viewer_Count": "2,524",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 143,
+    "Viewer_Count": "2,520",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 144,
+    "Viewer_Count": "2,595",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 145,
+    "Viewer_Count": "2,703",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 146,
+    "Viewer_Count": "3,841",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 147,
+    "Viewer_Count": "2,568",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 148,
+    "Viewer_Count": "3,457",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 149,
+    "Viewer_Count": "2,563",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 150,
+    "Viewer_Count": "2,630",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 151,
+    "Viewer_Count": "2,787",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 152,
+    "Viewer_Count": "2,628",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 153,
+    "Viewer_Count": "2,770",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 154,
+    "Viewer_Count": "2,437",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 155,
+    "Viewer_Count": "2,859",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 156,
+    "Viewer_Count": "2,747",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 157,
+    "Viewer_Count": "2,355",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 158,
+    "Viewer_Count": "2,284",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 159,
+    "Viewer_Count": "2,766",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 160,
+    "Viewer_Count": "3,238",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 161,
+    "Viewer_Count": "4,228",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 162,
+    "Viewer_Count": "2,784",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 163,
+    "Viewer_Count": "2,564",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 164,
+    "Viewer_Count": "2,664",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 165,
+    "Viewer_Count": "2,639",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 166,
+    "Viewer_Count": "2,430",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 167,
+    "Viewer_Count": "2,360",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 168,
+    "Viewer_Count": "2,429",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 169,
+    "Viewer_Count": "2,400",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 170,
+    "Viewer_Count": "2,489",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 171,
+    "Viewer_Count": "3,044",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 172,
+    "Viewer_Count": "5,642",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 173,
+    "Viewer_Count": "2,563",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 174,
+    "Viewer_Count": "2,557",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 175,
+    "Viewer_Count": "2,957",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 176,
+    "Viewer_Count": "2,370",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 177,
+    "Viewer_Count": "2,406",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 178,
+    "Viewer_Count": "2,608",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 179,
+    "Viewer_Count": "2,388",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 180,
+    "Viewer_Count": "3,793",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 181,
+    "Viewer_Count": "2,326",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 182,
+    "Viewer_Count": "3,114",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 183,
+    "Viewer_Count": "2,518",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 184,
+    "Viewer_Count": "3,560",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 185,
+    "Viewer_Count": "3,309",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 186,
+    "Viewer_Count": "2,896",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 187,
+    "Viewer_Count": "2,753",
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 188,
+    "Viewer_Count": "2,659",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 189,
+    "Viewer_Count": "2,644",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 190,
+    "Viewer_Count": "2,622",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 191,
+    "Viewer_Count": "2,660",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 192,
+    "Viewer_Count": "2,678",
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 193,
+    "Viewer_Count": "3,073",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 194,
+    "Viewer_Count": "2,791",
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 195,
+    "Viewer_Count": "4,628",
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 196,
+    "Viewer_Count": "2,918",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 197,
+    "Viewer_Count": "2,974",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 198,
+    "Viewer_Count": "4,690",
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 199,
+    "Viewer_Count": "3,103",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 200,
+    "Viewer_Count": "8,452",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 201,
+    "Viewer_Count": "3,256",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 202,
+    "Viewer_Count": "2,683",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 203,
+    "Viewer_Count": "2,728",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 204,
+    "Viewer_Count": "3,028",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 205,
+    "Viewer_Count": "3,119",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 206,
+    "Viewer_Count": "4,023",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 207,
+    "Viewer_Count": "8,901",
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Show_Name": "How I Met Your Mother",
+    "Episode_Number": 208,
+    "Viewer_Count": "16,352",
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 1,
+    "Viewer_Count": "39,850",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 2,
+    "Viewer_Count": "30,225",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 3,
+    "Viewer_Count": "28,579",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 4,
+    "Viewer_Count": "27,123",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 5,
+    "Viewer_Count": "28,230",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 6,
+    "Viewer_Count": "27,936",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 7,
+    "Viewer_Count": "28,428",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 8,
+    "Viewer_Count": "26,487",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 9,
+    "Viewer_Count": "37,354",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 10,
+    "Viewer_Count": "32,794",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 11,
+    "Viewer_Count": "25,610",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 12,
+    "Viewer_Count": "24,194",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 13,
+    "Viewer_Count": "23,910",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 14,
+    "Viewer_Count": "23,131",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 15,
+    "Viewer_Count": "23,320",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 16,
+    "Viewer_Count": "24,361",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 17,
+    "Viewer_Count": "23,717",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 18,
+    "Viewer_Count": "23,437",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 19,
+    "Viewer_Count": "40,791",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 20,
+    "Viewer_Count": "28,920",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 21,
+    "Viewer_Count": "25,513",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 22,
+    "Viewer_Count": "23,154",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 23,
+    "Viewer_Count": "23,388",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 24,
+    "Viewer_Count": "31,858",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 25,
+    "Viewer_Count": "23,834",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 26,
+    "Viewer_Count": "23,705",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 27,
+    "Viewer_Count": "22,921",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 28,
+    "Viewer_Count": "23,507",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 29,
+    "Viewer_Count": "89,057",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 30,
+    "Viewer_Count": "26,584",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 31,
+    "Viewer_Count": "30,018",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 32,
+    "Viewer_Count": "46,925",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 33,
+    "Viewer_Count": "25,411",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 34,
+    "Viewer_Count": "24,418",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 35,
+    "Viewer_Count": "23,644",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 36,
+    "Viewer_Count": "43,506",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 37,
+    "Viewer_Count": "26,302",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 38,
+    "Viewer_Count": "47,047",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 39,
+    "Viewer_Count": "39,721",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 40,
+    "Viewer_Count": "39,063",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 41,
+    "Viewer_Count": "26,733",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 42,
+    "Viewer_Count": "23,670",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 43,
+    "Viewer_Count": "22,945",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 44,
+    "Viewer_Count": "23,547",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 45,
+    "Viewer_Count": "23,824",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 46,
+    "Viewer_Count": "26,934",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 47,
+    "Viewer_Count": "25,993",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 48,
+    "Viewer_Count": "88,753",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 49,
+    "Viewer_Count": "39,000",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 50,
+    "Viewer_Count": "37,802",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 51,
+    "Viewer_Count": "36,575",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 52,
+    "Viewer_Count": "42,987",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 53,
+    "Viewer_Count": "30,785",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 54,
+    "Viewer_Count": "33,121",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 55,
+    "Viewer_Count": "64,744",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 56,
+    "Viewer_Count": "30,592",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 57,
+    "Viewer_Count": "29,720",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 58,
+    "Viewer_Count": "33,786",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 59,
+    "Viewer_Count": "187,883",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 60,
+    "Viewer_Count": "130,927",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 61,
+    "Viewer_Count": "47,074",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 62,
+    "Viewer_Count": "40,685",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 63,
+    "Viewer_Count": "42,424",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 64,
+    "Viewer_Count": "80,394",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 65,
+    "Viewer_Count": "40,474",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 66,
+    "Viewer_Count": "59,015",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 67,
+    "Viewer_Count": "58,600",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 68,
+    "Viewer_Count": "123,793",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 69,
+    "Viewer_Count": "121,996",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 70,
+    "Viewer_Count": "203,046",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 71,
+    "Viewer_Count": "155,073",
+    "IMDB_Rating": 5.5
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 72,
+    "Viewer_Count": "180,550",
+    "IMDB_Rating": 6
+  },
+  {
+    "Show_Name": "Game of Thrones",
+    "Episode_Number": 73,
+    "Viewer_Count": "225,789",
+    "IMDB_Rating": 4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 1,
+    "Viewer_Count": "4,271",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 2,
+    "Viewer_Count": "3,034",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 3,
+    "Viewer_Count": "2,852",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 4,
+    "Viewer_Count": "2,756",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 5,
+    "Viewer_Count": "2,655",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 6,
+    "Viewer_Count": "2,595",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 7,
+    "Viewer_Count": "2,535",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 8,
+    "Viewer_Count": "2,421",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 9,
+    "Viewer_Count": "2,739",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 10,
+    "Viewer_Count": "2,492",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 11,
+    "Viewer_Count": "2,580",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 12,
+    "Viewer_Count": "2,250",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 13,
+    "Viewer_Count": "2,295",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 14,
+    "Viewer_Count": "2,433",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 15,
+    "Viewer_Count": "2,210",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 16,
+    "Viewer_Count": "2,204",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 17,
+    "Viewer_Count": "2,271",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 18,
+    "Viewer_Count": "2,488",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 19,
+    "Viewer_Count": "2,243",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 20,
+    "Viewer_Count": "2,297",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 21,
+    "Viewer_Count": "6,216",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 22,
+    "Viewer_Count": "2,398",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 23,
+    "Viewer_Count": "2,320",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 24,
+    "Viewer_Count": "3,406",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 25,
+    "Viewer_Count": "2,089",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 26,
+    "Viewer_Count": "2,112",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 27,
+    "Viewer_Count": "2,066",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 28,
+    "Viewer_Count": "1,983",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 29,
+    "Viewer_Count": "2,054",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 30,
+    "Viewer_Count": "2,372",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 31,
+    "Viewer_Count": "2,010",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 32,
+    "Viewer_Count": "2,069",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 33,
+    "Viewer_Count": "1,972",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 34,
+    "Viewer_Count": "2,040",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 35,
+    "Viewer_Count": "2,271",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 36,
+    "Viewer_Count": "2,040",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 37,
+    "Viewer_Count": "1,993",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 38,
+    "Viewer_Count": "2,213",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 39,
+    "Viewer_Count": "2,515",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 40,
+    "Viewer_Count": "1,953",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 41,
+    "Viewer_Count": "2,269",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 42,
+    "Viewer_Count": "2,780",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 43,
+    "Viewer_Count": "3,003",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 44,
+    "Viewer_Count": "1,916",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 45,
+    "Viewer_Count": "1,964",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 46,
+    "Viewer_Count": "4,135",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 47,
+    "Viewer_Count": "2,516",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 48,
+    "Viewer_Count": "2,040",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 49,
+    "Viewer_Count": "2,134",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 50,
+    "Viewer_Count": "2,595",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 51,
+    "Viewer_Count": "1,925",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 52,
+    "Viewer_Count": "1,928",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 53,
+    "Viewer_Count": "2,415",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 54,
+    "Viewer_Count": "1,857",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 55,
+    "Viewer_Count": "1,933",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 56,
+    "Viewer_Count": "2,026",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 57,
+    "Viewer_Count": "2,001",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 58,
+    "Viewer_Count": "4,229",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 59,
+    "Viewer_Count": "1,888",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 60,
+    "Viewer_Count": "2,137",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 61,
+    "Viewer_Count": "2,695",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 62,
+    "Viewer_Count": "1,892",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 63,
+    "Viewer_Count": "2,043",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 64,
+    "Viewer_Count": "2,485",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 65,
+    "Viewer_Count": "1,843",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 66,
+    "Viewer_Count": "1,860",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 67,
+    "Viewer_Count": "1,821",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 68,
+    "Viewer_Count": "1,847",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 69,
+    "Viewer_Count": "1,920",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 70,
+    "Viewer_Count": "2,328",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 71,
+    "Viewer_Count": "2,619",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 72,
+    "Viewer_Count": "2,245",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 73,
+    "Viewer_Count": "2,077",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 74,
+    "Viewer_Count": "1,911",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 75,
+    "Viewer_Count": "2,204",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 76,
+    "Viewer_Count": "2,005",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 77,
+    "Viewer_Count": "1,905",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 78,
+    "Viewer_Count": "1,908",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 79,
+    "Viewer_Count": "2,035",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 80,
+    "Viewer_Count": "1,839",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 81,
+    "Viewer_Count": "2,752",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 82,
+    "Viewer_Count": "1,831",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 83,
+    "Viewer_Count": "1,759",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 84,
+    "Viewer_Count": "1,827",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 85,
+    "Viewer_Count": "8,065",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 86,
+    "Viewer_Count": "7,535",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 87,
+    "Viewer_Count": "2,093",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 88,
+    "Viewer_Count": "1,829",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 89,
+    "Viewer_Count": "1,728",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 90,
+    "Viewer_Count": "2,286",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 91,
+    "Viewer_Count": "1,980",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 92,
+    "Viewer_Count": "1,905",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 93,
+    "Viewer_Count": "1,713",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 94,
+    "Viewer_Count": "1,637",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 95,
+    "Viewer_Count": "2,442",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 96,
+    "Viewer_Count": "1,703",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 97,
+    "Viewer_Count": "1,890",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 98,
+    "Viewer_Count": "1,683",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 99,
+    "Viewer_Count": "1,607",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 100,
+    "Viewer_Count": "1,596",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 101,
+    "Viewer_Count": "1,776",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 102,
+    "Viewer_Count": "1,789",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 103,
+    "Viewer_Count": "1,844",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 104,
+    "Viewer_Count": "1,736",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 105,
+    "Viewer_Count": "2,753",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 106,
+    "Viewer_Count": "2,984",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 107,
+    "Viewer_Count": "1,752",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 108,
+    "Viewer_Count": "2,352",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 109,
+    "Viewer_Count": "2,515",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 110,
+    "Viewer_Count": "4,321",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 111,
+    "Viewer_Count": "7,431",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 112,
+    "Viewer_Count": "2,041",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 113,
+    "Viewer_Count": "2,302",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 114,
+    "Viewer_Count": "1,740",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 115,
+    "Viewer_Count": "1,722",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 116,
+    "Viewer_Count": "1,698",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 117,
+    "Viewer_Count": "1,681",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 118,
+    "Viewer_Count": "1,665",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 119,
+    "Viewer_Count": "2,184",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 120,
+    "Viewer_Count": "2,147",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 121,
+    "Viewer_Count": "1,839",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 122,
+    "Viewer_Count": "1,596",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 123,
+    "Viewer_Count": "2,361",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 124,
+    "Viewer_Count": "1,688",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 125,
+    "Viewer_Count": "1,654",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 126,
+    "Viewer_Count": "2,232",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 127,
+    "Viewer_Count": "1,593",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 128,
+    "Viewer_Count": "1,581",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 129,
+    "Viewer_Count": "1,625",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 130,
+    "Viewer_Count": "2,050",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 131,
+    "Viewer_Count": "3,849",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 132,
+    "Viewer_Count": "2,121",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 133,
+    "Viewer_Count": "1,832",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 134,
+    "Viewer_Count": "1,615",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 135,
+    "Viewer_Count": "1,528",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 136,
+    "Viewer_Count": "1,596",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 137,
+    "Viewer_Count": "1,524",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 138,
+    "Viewer_Count": "1,816",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 139,
+    "Viewer_Count": "1,515",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 140,
+    "Viewer_Count": "1,611",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 141,
+    "Viewer_Count": "1,497",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 142,
+    "Viewer_Count": "1,686",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 143,
+    "Viewer_Count": "1,474",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 144,
+    "Viewer_Count": "2,315",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 145,
+    "Viewer_Count": "1,497",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 146,
+    "Viewer_Count": "2,125",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 147,
+    "Viewer_Count": "2,152",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 148,
+    "Viewer_Count": "1,717",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 149,
+    "Viewer_Count": "1,981",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 150,
+    "Viewer_Count": "1,590",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 151,
+    "Viewer_Count": "1,416",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 152,
+    "Viewer_Count": "1,423",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 153,
+    "Viewer_Count": "2,326",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 154,
+    "Viewer_Count": "2,152",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 155,
+    "Viewer_Count": "2,487",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 156,
+    "Viewer_Count": "1,727",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 157,
+    "Viewer_Count": "1,669",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 158,
+    "Viewer_Count": "1,528",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 159,
+    "Viewer_Count": "1,599",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 160,
+    "Viewer_Count": "1,423",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 161,
+    "Viewer_Count": "1,502",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 162,
+    "Viewer_Count": "1,466",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 163,
+    "Viewer_Count": "1,491",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 164,
+    "Viewer_Count": "1,443",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 165,
+    "Viewer_Count": "2,389",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 166,
+    "Viewer_Count": "2,024",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 167,
+    "Viewer_Count": "1,429",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 168,
+    "Viewer_Count": "1,496",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 169,
+    "Viewer_Count": "1,435",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 170,
+    "Viewer_Count": "1,422",
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 171,
+    "Viewer_Count": "1,443",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 172,
+    "Viewer_Count": "1,537",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 173,
+    "Viewer_Count": "2,234",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 174,
+    "Viewer_Count": "1,720",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 175,
+    "Viewer_Count": "2,073",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House M.D",
+    "Episode_Number": 176,
+    "Viewer_Count": "4,785",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 1,
+    "Viewer_Count": "7,014",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 2,
+    "Viewer_Count": "5,295",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 3,
+    "Viewer_Count": "4,988",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 4,
+    "Viewer_Count": "4,833",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 5,
+    "Viewer_Count": "4,801",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 6,
+    "Viewer_Count": "4,607",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 7,
+    "Viewer_Count": "5,900",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 8,
+    "Viewer_Count": "4,493",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 9,
+    "Viewer_Count": "4,359",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 10,
+    "Viewer_Count": "4,385",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 11,
+    "Viewer_Count": "4,328",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 12,
+    "Viewer_Count": "4,246",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 13,
+    "Viewer_Count": "4,527",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 14,
+    "Viewer_Count": "4,181",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 15,
+    "Viewer_Count": "4,221",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 16,
+    "Viewer_Count": "4,150",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 17,
+    "Viewer_Count": "4,205",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 18,
+    "Viewer_Count": "4,685",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 19,
+    "Viewer_Count": "4,037",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 20,
+    "Viewer_Count": "4,042",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 21,
+    "Viewer_Count": "4,075",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 22,
+    "Viewer_Count": "4,031",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 23,
+    "Viewer_Count": "4,251",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 24,
+    "Viewer_Count": "4,537",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 25,
+    "Viewer_Count": "4,129",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 26,
+    "Viewer_Count": "3,977",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 27,
+    "Viewer_Count": "3,982",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 28,
+    "Viewer_Count": "3,854",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 29,
+    "Viewer_Count": "3,855",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 30,
+    "Viewer_Count": "4,132",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 31,
+    "Viewer_Count": "4,675",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 32,
+    "Viewer_Count": "3,876",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 33,
+    "Viewer_Count": "3,717",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 34,
+    "Viewer_Count": "3,879",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 35,
+    "Viewer_Count": "3,817",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 36,
+    "Viewer_Count": "4,025",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 37,
+    "Viewer_Count": "4,178",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 38,
+    "Viewer_Count": "6,166",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 39,
+    "Viewer_Count": "4,230",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 40,
+    "Viewer_Count": "3,729",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 41,
+    "Viewer_Count": "3,693",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 42,
+    "Viewer_Count": "3,689",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 43,
+    "Viewer_Count": "3,789",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 44,
+    "Viewer_Count": "3,577",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 45,
+    "Viewer_Count": "3,626",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 46,
+    "Viewer_Count": "4,513",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 47,
+    "Viewer_Count": "3,642",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 48,
+    "Viewer_Count": "3,615",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 49,
+    "Viewer_Count": "3,777",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 50,
+    "Viewer_Count": "5,031",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 51,
+    "Viewer_Count": "3,590",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 52,
+    "Viewer_Count": "3,464",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,567",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 54,
+    "Viewer_Count": "4,652",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 55,
+    "Viewer_Count": "3,505",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 56,
+    "Viewer_Count": "3,518",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 57,
+    "Viewer_Count": "4,937",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 58,
+    "Viewer_Count": "3,528",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 59,
+    "Viewer_Count": "3,658",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 60,
+    "Viewer_Count": "3,466",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 61,
+    "Viewer_Count": "3,481",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 62,
+    "Viewer_Count": "3,461",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 63,
+    "Viewer_Count": "3,729",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 64,
+    "Viewer_Count": "4,532",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 65,
+    "Viewer_Count": "3,420",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 66,
+    "Viewer_Count": "3,540",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 67,
+    "Viewer_Count": "3,413",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 68,
+    "Viewer_Count": "3,388",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 69,
+    "Viewer_Count": "3,638",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 70,
+    "Viewer_Count": "3,443",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 71,
+    "Viewer_Count": "3,379",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 72,
+    "Viewer_Count": "3,520",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 73,
+    "Viewer_Count": "3,893",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 74,
+    "Viewer_Count": "4,444",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 75,
+    "Viewer_Count": "3,448",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 76,
+    "Viewer_Count": "3,472",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 77,
+    "Viewer_Count": "3,390",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 78,
+    "Viewer_Count": "3,426",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 79,
+    "Viewer_Count": "3,510",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 80,
+    "Viewer_Count": "3,568",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 81,
+    "Viewer_Count": "4,478",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 82,
+    "Viewer_Count": "3,308",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 83,
+    "Viewer_Count": "3,280",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 84,
+    "Viewer_Count": "3,497",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 85,
+    "Viewer_Count": "6,553",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 86,
+    "Viewer_Count": "3,274",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 87,
+    "Viewer_Count": "3,300",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 88,
+    "Viewer_Count": "3,455",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 89,
+    "Viewer_Count": "3,326",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 90,
+    "Viewer_Count": "3,476",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 91,
+    "Viewer_Count": "3,271",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 92,
+    "Viewer_Count": "3,448",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 93,
+    "Viewer_Count": "3,383",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 94,
+    "Viewer_Count": "3,652",
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 95,
+    "Viewer_Count": "3,314",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 96,
+    "Viewer_Count": "3,619",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 97,
+    "Viewer_Count": "4,556",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 98,
+    "Viewer_Count": "3,902",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 99,
+    "Viewer_Count": "3,981",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 100,
+    "Viewer_Count": "3,610",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 101,
+    "Viewer_Count": "3,252",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 102,
+    "Viewer_Count": "3,496",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 103,
+    "Viewer_Count": "3,246",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 104,
+    "Viewer_Count": "3,277",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 105,
+    "Viewer_Count": "4,585",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 106,
+    "Viewer_Count": "4,217",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 107,
+    "Viewer_Count": "3,213",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 108,
+    "Viewer_Count": "4,081",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 109,
+    "Viewer_Count": "3,187",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 110,
+    "Viewer_Count": "3,203",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 111,
+    "Viewer_Count": "8,714",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 112,
+    "Viewer_Count": "3,380",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 113,
+    "Viewer_Count": "3,440",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 114,
+    "Viewer_Count": "3,227",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 115,
+    "Viewer_Count": "3,133",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 116,
+    "Viewer_Count": "3,500",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 117,
+    "Viewer_Count": "3,122",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 118,
+    "Viewer_Count": "3,254",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 119,
+    "Viewer_Count": "3,096",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 120,
+    "Viewer_Count": "3,537",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 121,
+    "Viewer_Count": "4,013",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 122,
+    "Viewer_Count": "3,420",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 123,
+    "Viewer_Count": "3,119",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 124,
+    "Viewer_Count": "3,083",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 125,
+    "Viewer_Count": "3,227",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 126,
+    "Viewer_Count": "3,138",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 127,
+    "Viewer_Count": "3,175",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 128,
+    "Viewer_Count": "3,190",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 129,
+    "Viewer_Count": "3,323",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 130,
+    "Viewer_Count": "4,539",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 131,
+    "Viewer_Count": "3,406",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 132,
+    "Viewer_Count": "3,130",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 133,
+    "Viewer_Count": "3,066",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 134,
+    "Viewer_Count": "3,200",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 135,
+    "Viewer_Count": "3,257",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 136,
+    "Viewer_Count": "3,353",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 137,
+    "Viewer_Count": "3,293",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 138,
+    "Viewer_Count": "4,533",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 139,
+    "Viewer_Count": "3,120",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 140,
+    "Viewer_Count": "3,168",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 141,
+    "Viewer_Count": "3,370",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 142,
+    "Viewer_Count": "3,314",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 143,
+    "Viewer_Count": "3,865",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 144,
+    "Viewer_Count": "3,225",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 145,
+    "Viewer_Count": "3,316",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 146,
+    "Viewer_Count": "4,548",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 147,
+    "Viewer_Count": "3,277",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 148,
+    "Viewer_Count": "3,054",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 149,
+    "Viewer_Count": "3,048",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 150,
+    "Viewer_Count": "3,063",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 151,
+    "Viewer_Count": "3,033",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 152,
+    "Viewer_Count": "3,660",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 153,
+    "Viewer_Count": "3,104",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 154,
+    "Viewer_Count": "3,012",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 155,
+    "Viewer_Count": "2,980",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 156,
+    "Viewer_Count": "3,278",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 157,
+    "Viewer_Count": "3,189",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 158,
+    "Viewer_Count": "3,238",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 159,
+    "Viewer_Count": "3,063",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 160,
+    "Viewer_Count": "3,240",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 161,
+    "Viewer_Count": "3,143",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 162,
+    "Viewer_Count": "3,230",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 163,
+    "Viewer_Count": "3,001",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 164,
+    "Viewer_Count": "3,040",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 165,
+    "Viewer_Count": "3,430",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 166,
+    "Viewer_Count": "3,136",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 167,
+    "Viewer_Count": "3,072",
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 168,
+    "Viewer_Count": "3,064",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 169,
+    "Viewer_Count": "3,440",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 170,
+    "Viewer_Count": "3,867",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 171,
+    "Viewer_Count": "3,268",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 172,
+    "Viewer_Count": "3,794",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 173,
+    "Viewer_Count": "3,118",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 174,
+    "Viewer_Count": "4,487",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 175,
+    "Viewer_Count": "2,966",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 176,
+    "Viewer_Count": "3,245",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 177,
+    "Viewer_Count": "3,016",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 178,
+    "Viewer_Count": "3,381",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 179,
+    "Viewer_Count": "5,670",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 180,
+    "Viewer_Count": "3,016",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 181,
+    "Viewer_Count": "2,883",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 182,
+    "Viewer_Count": "3,142",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 183,
+    "Viewer_Count": "3,067",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 184,
+    "Viewer_Count": "2,904",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 185,
+    "Viewer_Count": "2,890",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 186,
+    "Viewer_Count": "2,951",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 187,
+    "Viewer_Count": "2,917",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 188,
+    "Viewer_Count": "2,953",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 189,
+    "Viewer_Count": "3,067",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 190,
+    "Viewer_Count": "2,945",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 191,
+    "Viewer_Count": "2,939",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 192,
+    "Viewer_Count": "2,903",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 193,
+    "Viewer_Count": "3,176",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 194,
+    "Viewer_Count": "3,422",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 195,
+    "Viewer_Count": "3,220",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 196,
+    "Viewer_Count": "3,232",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 197,
+    "Viewer_Count": "2,972",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 198,
+    "Viewer_Count": "3,012",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 199,
+    "Viewer_Count": "3,063",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 200,
+    "Viewer_Count": "3,227",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 201,
+    "Viewer_Count": "3,244",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 202,
+    "Viewer_Count": "3,571",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 203,
+    "Viewer_Count": "2,946",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 204,
+    "Viewer_Count": "3,049",
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 205,
+    "Viewer_Count": "2,838",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 206,
+    "Viewer_Count": "2,931",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 207,
+    "Viewer_Count": "2,917",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 208,
+    "Viewer_Count": "2,869",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 209,
+    "Viewer_Count": "2,906",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 210,
+    "Viewer_Count": "2,828",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 211,
+    "Viewer_Count": "2,951",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 212,
+    "Viewer_Count": "3,040",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 213,
+    "Viewer_Count": "2,848",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 214,
+    "Viewer_Count": "2,851",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 215,
+    "Viewer_Count": "2,797",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 216,
+    "Viewer_Count": "2,877",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 217,
+    "Viewer_Count": "2,958",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 218,
+    "Viewer_Count": "3,111",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 219,
+    "Viewer_Count": "3,383",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 220,
+    "Viewer_Count": "3,673",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 221,
+    "Viewer_Count": "3,554",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 222,
+    "Viewer_Count": "3,072",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 223,
+    "Viewer_Count": "3,062",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 224,
+    "Viewer_Count": "3,104",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 225,
+    "Viewer_Count": "2,955",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 226,
+    "Viewer_Count": "3,600",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 227,
+    "Viewer_Count": "3,113",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 228,
+    "Viewer_Count": "2,984",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 229,
+    "Viewer_Count": "3,979",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 230,
+    "Viewer_Count": "3,449",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 231,
+    "Viewer_Count": "3,313",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 232,
+    "Viewer_Count": "3,237",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 233,
+    "Viewer_Count": "3,011",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 234,
+    "Viewer_Count": "3,424",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 235,
+    "Viewer_Count": "11,649",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Friends",
+    "Episode_Number": 236,
+    "Viewer_Count": "10,680",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 1,
+    "Viewer_Count": "24,460",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 2,
+    "Viewer_Count": "17,628",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 3,
+    "Viewer_Count": "17,074",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 4,
+    "Viewer_Count": "16,552",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 5,
+    "Viewer_Count": "16,239",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 6,
+    "Viewer_Count": "18,855",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 7,
+    "Viewer_Count": "16,549",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 8,
+    "Viewer_Count": "14,815",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 9,
+    "Viewer_Count": "17,274",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 10,
+    "Viewer_Count": "14,361",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 11,
+    "Viewer_Count": "14,495",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 12,
+    "Viewer_Count": "14,057",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 13,
+    "Viewer_Count": "15,558",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 14,
+    "Viewer_Count": "14,033",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 15,
+    "Viewer_Count": "16,570",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 16,
+    "Viewer_Count": "16,076",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 17,
+    "Viewer_Count": "13,750",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 18,
+    "Viewer_Count": "14,210",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 19,
+    "Viewer_Count": "16,000",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 20,
+    "Viewer_Count": "15,992",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 21,
+    "Viewer_Count": "13,626",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 22,
+    "Viewer_Count": "13,206",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 23,
+    "Viewer_Count": "13,245",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 24,
+    "Viewer_Count": "13,476",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 25,
+    "Viewer_Count": "12,844",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 26,
+    "Viewer_Count": "15,349",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 27,
+    "Viewer_Count": "18,996",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 28,
+    "Viewer_Count": "13,309",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 29,
+    "Viewer_Count": "13,190",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 30,
+    "Viewer_Count": "23,288",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 31,
+    "Viewer_Count": "13,062",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 32,
+    "Viewer_Count": "18,351",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 33,
+    "Viewer_Count": "20,644",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 34,
+    "Viewer_Count": "16,533",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 35,
+    "Viewer_Count": "13,695",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 36,
+    "Viewer_Count": "13,828",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 37,
+    "Viewer_Count": "12,933",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 38,
+    "Viewer_Count": "12,959",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 39,
+    "Viewer_Count": "13,126",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 40,
+    "Viewer_Count": "13,669",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 41,
+    "Viewer_Count": "15,422",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 42,
+    "Viewer_Count": "13,795",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 43,
+    "Viewer_Count": "19,462",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 44,
+    "Viewer_Count": "22,505",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 45,
+    "Viewer_Count": "17,468",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 46,
+    "Viewer_Count": "42,062",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 47,
+    "Viewer_Count": "19,465",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 48,
+    "Viewer_Count": "16,389",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 49,
+    "Viewer_Count": "15,911",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 50,
+    "Viewer_Count": "16,025",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 51,
+    "Viewer_Count": "23,812",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 52,
+    "Viewer_Count": "16,401",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 53,
+    "Viewer_Count": "21,080",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 54,
+    "Viewer_Count": "21,714",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 55,
+    "Viewer_Count": "21,109",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 56,
+    "Viewer_Count": "18,329",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 57,
+    "Viewer_Count": "22,560",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 58,
+    "Viewer_Count": "19,137",
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 59,
+    "Viewer_Count": "32,232",
+    "IMDB_Rating": 9.8
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 60,
+    "Viewer_Count": "121,747",
+    "IMDB_Rating": 10
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 61,
+    "Viewer_Count": "32,544",
+    "IMDB_Rating": 9.7
+  },
+  {
+    "Show_Name": "Breaking Bad",
+    "Episode_Number": 62,
+    "Viewer_Count": "86,182",
+    "IMDB_Rating": 9.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 1,
+    "Viewer_Count": "7,203",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 2,
+    "Viewer_Count": "5,760",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 3,
+    "Viewer_Count": "5,132",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 4,
+    "Viewer_Count": "4,826",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 5,
+    "Viewer_Count": "4,715",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 6,
+    "Viewer_Count": "4,701",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 7,
+    "Viewer_Count": "4,430",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 8,
+    "Viewer_Count": "4,620",
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 9,
+    "Viewer_Count": "4,335",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 10,
+    "Viewer_Count": "4,380",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 11,
+    "Viewer_Count": "4,791",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 12,
+    "Viewer_Count": "4,228",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 13,
+    "Viewer_Count": "4,613",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 14,
+    "Viewer_Count": "8,285",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 15,
+    "Viewer_Count": "4,104",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 16,
+    "Viewer_Count": "3,955",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 17,
+    "Viewer_Count": "4,442",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 18,
+    "Viewer_Count": "3,762",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 19,
+    "Viewer_Count": "3,657",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 20,
+    "Viewer_Count": "3,648",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 21,
+    "Viewer_Count": "3,641",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 22,
+    "Viewer_Count": "3,895",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 23,
+    "Viewer_Count": "3,578",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 24,
+    "Viewer_Count": "3,885",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 25,
+    "Viewer_Count": "3,732",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 26,
+    "Viewer_Count": "6,230",
+    "IMDB_Rating": 9.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 27,
+    "Viewer_Count": "4,136",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 28,
+    "Viewer_Count": "3,719",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 29,
+    "Viewer_Count": "3,949",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 30,
+    "Viewer_Count": "3,507",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 31,
+    "Viewer_Count": "3,385",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 32,
+    "Viewer_Count": "4,780",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 33,
+    "Viewer_Count": "3,441",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 34,
+    "Viewer_Count": "3,283",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 35,
+    "Viewer_Count": "3,271",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 36,
+    "Viewer_Count": "3,237",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 37,
+    "Viewer_Count": "3,767",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 38,
+    "Viewer_Count": "3,404",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 39,
+    "Viewer_Count": "4,308",
+    "IMDB_Rating": 9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 40,
+    "Viewer_Count": "3,639",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 41,
+    "Viewer_Count": "3,258",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 42,
+    "Viewer_Count": "3,404",
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 43,
+    "Viewer_Count": "4,101",
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 44,
+    "Viewer_Count": "3,068",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 45,
+    "Viewer_Count": "3,166",
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 46,
+    "Viewer_Count": "3,008",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 47,
+    "Viewer_Count": "2,889",
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 48,
+    "Viewer_Count": "3,046",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 49,
+    "Viewer_Count": "3,935",
+    "IMDB_Rating": 9.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 50,
+    "Viewer_Count": "2,935",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 51,
+    "Viewer_Count": "3,060",
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 52,
+    "Viewer_Count": "5,724",
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 53,
+    "Viewer_Count": "3,196",
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 54,
+    "Viewer_Count": "2,701",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 55,
+    "Viewer_Count": "2,597",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 56,
+    "Viewer_Count": "2,686",
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 57,
+    "Viewer_Count": "2,483",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 58,
+    "Viewer_Count": "2,398",
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 59,
+    "Viewer_Count": "2,415",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 60,
+    "Viewer_Count": "2,363",
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 61,
+    "Viewer_Count": "2,347",
+    "IMDB_Rating": 8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 62,
+    "Viewer_Count": "2,334",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 63,
+    "Viewer_Count": "2,336",
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 64,
+    "Viewer_Count": "3,081",
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 65,
+    "Viewer_Count": "3,068",
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 66,
+    "Viewer_Count": "5,550",
+    "IMDB_Rating": 4.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 67,
+    "Viewer_Count": "4,517",
+    "IMDB_Rating": 4.1
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 68,
+    "Viewer_Count": "4,217",
+    "IMDB_Rating": 4.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 69,
+    "Viewer_Count": "4,061",
+    "IMDB_Rating": 4.3
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 70,
+    "Viewer_Count": "4,138",
+    "IMDB_Rating": 4.4
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 71,
+    "Viewer_Count": "4,001",
+    "IMDB_Rating": 4.2
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 72,
+    "Viewer_Count": "4,020",
+    "IMDB_Rating": 3.8
+  },
+  {
+    "Show_Name": "House of Cards",
+    "Episode_Number": 73,
+    "Viewer_Count": "6,615",
+    "IMDB_Rating": 2.5
+  }
+]
