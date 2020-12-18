@@ -1,0 +1,1458 @@
+[
+  {
+    "Episode_Number": 1,
+    "Season": 1,
+    "Episode": 1,
+    "Viewer_Count": 8.5,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 2,
+    "Season": 1,
+    "Episode": 2,
+    "Viewer_Count": 8.2,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 3,
+    "Season": 1,
+    "Episode": 3,
+    "Viewer_Count": 8.2,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 4,
+    "Season": 1,
+    "Episode": 4,
+    "Viewer_Count": 8,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 5,
+    "Season": 1,
+    "Episode": 5,
+    "Viewer_Count": 8.3,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 6,
+    "Season": 1,
+    "Episode": 6,
+    "Viewer_Count": 8.1,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 7,
+    "Season": 1,
+    "Episode": 7,
+    "Viewer_Count": 7.7,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 8,
+    "Season": 1,
+    "Episode": 8,
+    "Viewer_Count": 8.2,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 9,
+    "Season": 1,
+    "Episode": 9,
+    "Viewer_Count": 8.1,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 10,
+    "Season": 1,
+    "Episode": 10,
+    "Viewer_Count": 9.2,
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Episode_Number": 11,
+    "Season": 1,
+    "Episode": 11,
+    "Viewer_Count": 8.3,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 12,
+    "Season": 1,
+    "Episode": 12,
+    "Viewer_Count": 8.1,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 13,
+    "Season": 1,
+    "Episode": 13,
+    "Viewer_Count": 8.7,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Episode_Number": 14,
+    "Season": 1,
+    "Episode": 14,
+    "Viewer_Count": 8.2,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 15,
+    "Season": 1,
+    "Episode": 15,
+    "Viewer_Count": 9.1,
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Episode_Number": 16,
+    "Season": 1,
+    "Episode": 16,
+    "Viewer_Count": 7.9,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 17,
+    "Season": 1,
+    "Episode": 17,
+    "Viewer_Count": 9.8,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 18,
+    "Season": 1,
+    "Episode": 18,
+    "Viewer_Count": 7.65,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 19,
+    "Season": 1,
+    "Episode": 19,
+    "Viewer_Count": 7.6,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 20,
+    "Season": 1,
+    "Episode": 20,
+    "Viewer_Count": 7.24,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 21,
+    "Season": 1,
+    "Episode": 21,
+    "Viewer_Count": 8.07,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 22,
+    "Season": 1,
+    "Episode": 22,
+    "Viewer_Count": 8.64,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 23,
+    "Season": 2,
+    "Episode": 1,
+    "Viewer_Count": 10.84,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 24,
+    "Season": 2,
+    "Episode": 2,
+    "Viewer_Count": 9.14,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 25,
+    "Season": 2,
+    "Episode": 3,
+    "Viewer_Count": 9.32,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 26,
+    "Season": 2,
+    "Episode": 4,
+    "Viewer_Count": 9.09,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 27,
+    "Season": 2,
+    "Episode": 5,
+    "Viewer_Count": 9.05,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 28,
+    "Season": 2,
+    "Episode": 6,
+    "Viewer_Count": 9.59,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 29,
+    "Season": 2,
+    "Episode": 7,
+    "Viewer_Count": 8.22,
+    "IMDB_Rating": 9
+  },
+  {
+    "Episode_Number": 30,
+    "Season": 2,
+    "Episode": 8,
+    "Viewer_Count": 9.33,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 31,
+    "Season": 2,
+    "Episode": 9,
+    "Viewer_Count": 8.85,
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Episode_Number": 32,
+    "Season": 2,
+    "Episode": 10,
+    "Viewer_Count": 9.85,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 33,
+    "Season": 2,
+    "Episode": 11,
+    "Viewer_Count": 8.81,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 34,
+    "Season": 2,
+    "Episode": 12,
+    "Viewer_Count": 8.37,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 35,
+    "Season": 2,
+    "Episode": 13,
+    "Viewer_Count": 9.42,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 36,
+    "Season": 2,
+    "Episode": 14,
+    "Viewer_Count": 10.61,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 37,
+    "Season": 2,
+    "Episode": 15,
+    "Viewer_Count": 9.68,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 38,
+    "Season": 2,
+    "Episode": 16,
+    "Viewer_Count": 8.95,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 39,
+    "Season": 2,
+    "Episode": 17,
+    "Viewer_Count": 9.33,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 40,
+    "Season": 2,
+    "Episode": 18,
+    "Viewer_Count": 7.27,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 41,
+    "Season": 2,
+    "Episode": 19,
+    "Viewer_Count": 9.9,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 42,
+    "Season": 2,
+    "Episode": 20,
+    "Viewer_Count": 7.24,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 43,
+    "Season": 2,
+    "Episode": 21,
+    "Viewer_Count": 7.69,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 44,
+    "Season": 2,
+    "Episode": 22,
+    "Viewer_Count": 9.9,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 45,
+    "Season": 3,
+    "Episode": 1,
+    "Viewer_Count": 8.12,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 46,
+    "Season": 3,
+    "Episode": 2,
+    "Viewer_Count": 7.88,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 47,
+    "Season": 3,
+    "Episode": 3,
+    "Viewer_Count": 7.96,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 48,
+    "Season": 3,
+    "Episode": 4,
+    "Viewer_Count": 7.71,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 49,
+    "Season": 3,
+    "Episode": 5,
+    "Viewer_Count": 8.5,
+    "IMDB_Rating": 9
+  },
+  {
+    "Episode_Number": 50,
+    "Season": 3,
+    "Episode": 6,
+    "Viewer_Count": 8.55,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 51,
+    "Season": 3,
+    "Episode": 7,
+    "Viewer_Count": 8.77,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 52,
+    "Season": 3,
+    "Episode": 8,
+    "Viewer_Count": 8.58,
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Episode_Number": 53,
+    "Season": 3,
+    "Episode": 9,
+    "Viewer_Count": 8.06,
+    "IMDB_Rating": 9
+  },
+  {
+    "Episode_Number": 54,
+    "Season": 3,
+    "Episode": 10,
+    "Viewer_Count": 7.91,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 55,
+    "Season": 3,
+    "Episode": 11,
+    "Viewer_Count": 8.49,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 56,
+    "Season": 3,
+    "Episode": 12,
+    "Viewer_Count": 9.73,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 57,
+    "Season": 3,
+    "Episode": 13,
+    "Viewer_Count": 20.67,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 58,
+    "Season": 3,
+    "Episode": 14,
+    "Viewer_Count": 9.5,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Episode_Number": 59,
+    "Season": 3,
+    "Episode": 15,
+    "Viewer_Count": 7.99,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 60,
+    "Season": 3,
+    "Episode": 16,
+    "Viewer_Count": 8.45,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 61,
+    "Season": 3,
+    "Episode": 17,
+    "Viewer_Count": 8.84,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 62,
+    "Season": 3,
+    "Episode": 18,
+    "Viewer_Count": 8.36,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 63,
+    "Season": 3,
+    "Episode": 19,
+    "Viewer_Count": 8.93,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 64,
+    "Season": 3,
+    "Episode": 20,
+    "Viewer_Count": 7.99,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Episode_Number": 65,
+    "Season": 4,
+    "Episode": 1,
+    "Viewer_Count": 9.79,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 66,
+    "Season": 4,
+    "Episode": 2,
+    "Viewer_Count": 8.72,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 67,
+    "Season": 4,
+    "Episode": 3,
+    "Viewer_Count": 8.97,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 68,
+    "Season": 4,
+    "Episode": 4,
+    "Viewer_Count": 9.25,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 69,
+    "Season": 4,
+    "Episode": 5,
+    "Viewer_Count": 9.45,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 70,
+    "Season": 4,
+    "Episode": 6,
+    "Viewer_Count": 9.4,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 71,
+    "Season": 4,
+    "Episode": 7,
+    "Viewer_Count": 9.79,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 72,
+    "Season": 4,
+    "Episode": 8,
+    "Viewer_Count": 9.99,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 73,
+    "Season": 4,
+    "Episode": 9,
+    "Viewer_Count": 10.04,
+    "IMDB_Rating": 9.2
+  },
+  {
+    "Episode_Number": 74,
+    "Season": 4,
+    "Episode": 10,
+    "Viewer_Count": 10.49,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 75,
+    "Season": 4,
+    "Episode": 11,
+    "Viewer_Count": 11.44,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 76,
+    "Season": 4,
+    "Episode": 12,
+    "Viewer_Count": 11.76,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 77,
+    "Season": 4,
+    "Episode": 13,
+    "Viewer_Count": 10.69,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 78,
+    "Season": 4,
+    "Episode": 14,
+    "Viewer_Count": 10.3,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 79,
+    "Season": 4,
+    "Episode": 15,
+    "Viewer_Count": 11.08,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 80,
+    "Season": 4,
+    "Episode": 16,
+    "Viewer_Count": 8.51,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 81,
+    "Season": 4,
+    "Episode": 17,
+    "Viewer_Count": 9.29,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 82,
+    "Season": 4,
+    "Episode": 18,
+    "Viewer_Count": 7.36,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 83,
+    "Season": 4,
+    "Episode": 19,
+    "Viewer_Count": 9.2,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 84,
+    "Season": 4,
+    "Episode": 20,
+    "Viewer_Count": 9.56,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 85,
+    "Season": 4,
+    "Episode": 21,
+    "Viewer_Count": 8.87,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Episode_Number": 86,
+    "Season": 4,
+    "Episode": 22,
+    "Viewer_Count": 8.89,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 87,
+    "Season": 4,
+    "Episode": 23,
+    "Viewer_Count": 8.7,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 88,
+    "Season": 4,
+    "Episode": 24,
+    "Viewer_Count": 8.73,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 89,
+    "Season": 5,
+    "Episode": 1,
+    "Viewer_Count": 9.09,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 90,
+    "Season": 5,
+    "Episode": 2,
+    "Viewer_Count": 8.73,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 91,
+    "Season": 5,
+    "Episode": 3,
+    "Viewer_Count": 8.23,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 92,
+    "Season": 5,
+    "Episode": 4,
+    "Viewer_Count": 8.56,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 93,
+    "Season": 5,
+    "Episode": 5,
+    "Viewer_Count": 8.07,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 94,
+    "Season": 5,
+    "Episode": 6,
+    "Viewer_Count": 8.82,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 95,
+    "Season": 5,
+    "Episode": 7,
+    "Viewer_Count": 8.82,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 96,
+    "Season": 5,
+    "Episode": 8,
+    "Viewer_Count": 8.44,
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Episode_Number": 97,
+    "Season": 5,
+    "Episode": 9,
+    "Viewer_Count": 8.75,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 98,
+    "Season": 5,
+    "Episode": 10,
+    "Viewer_Count": 8.79,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 99,
+    "Season": 5,
+    "Episode": 11,
+    "Viewer_Count": 9.65,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 100,
+    "Season": 5,
+    "Episode": 12,
+    "Viewer_Count": 9.78,
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Episode_Number": 101,
+    "Season": 5,
+    "Episode": 13,
+    "Viewer_Count": 10.52,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 102,
+    "Season": 5,
+    "Episode": 14,
+    "Viewer_Count": 9.28,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 103,
+    "Season": 5,
+    "Episode": 15,
+    "Viewer_Count": 10,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 104,
+    "Season": 5,
+    "Episode": 16,
+    "Viewer_Count": 10.37,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 105,
+    "Season": 5,
+    "Episode": 17,
+    "Viewer_Count": 10.06,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 106,
+    "Season": 5,
+    "Episode": 18,
+    "Viewer_Count": 8.37,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 107,
+    "Season": 5,
+    "Episode": 19,
+    "Viewer_Count": 6.88,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Episode_Number": 108,
+    "Season": 5,
+    "Episode": 20,
+    "Viewer_Count": 7.71,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 109,
+    "Season": 5,
+    "Episode": 21,
+    "Viewer_Count": 7.7,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 110,
+    "Season": 5,
+    "Episode": 22,
+    "Viewer_Count": 8.16,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 111,
+    "Season": 5,
+    "Episode": 23,
+    "Viewer_Count": 7.69,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 112,
+    "Season": 5,
+    "Episode": 24,
+    "Viewer_Count": 8.18,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 113,
+    "Season": 6,
+    "Episode": 1,
+    "Viewer_Count": 8.79,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 114,
+    "Season": 6,
+    "Episode": 2,
+    "Viewer_Count": 9,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 115,
+    "Season": 6,
+    "Episode": 3,
+    "Viewer_Count": 8.6,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 116,
+    "Season": 6,
+    "Episode": 4,
+    "Viewer_Count": 8.48,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 117,
+    "Season": 6,
+    "Episode": 5,
+    "Viewer_Count": 8.05,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 118,
+    "Season": 6,
+    "Episode": 6,
+    "Viewer_Count": 8.05,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 119,
+    "Season": 6,
+    "Episode": 7,
+    "Viewer_Count": 8.29,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 120,
+    "Season": 6,
+    "Episode": 8,
+    "Viewer_Count": 8.88,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 121,
+    "Season": 6,
+    "Episode": 9,
+    "Viewer_Count": 8.87,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 122,
+    "Season": 6,
+    "Episode": 10,
+    "Viewer_Count": 8.87,
+    "IMDB_Rating": 9.1
+  },
+  {
+    "Episode_Number": 123,
+    "Season": 6,
+    "Episode": 11,
+    "Viewer_Count": 8.73,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 124,
+    "Season": 6,
+    "Episode": 12,
+    "Viewer_Count": 9.26,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 125,
+    "Season": 6,
+    "Episode": 13,
+    "Viewer_Count": 9.7,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 126,
+    "Season": 6,
+    "Episode": 14,
+    "Viewer_Count": 10.15,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 127,
+    "Season": 6,
+    "Episode": 15,
+    "Viewer_Count": 10.54,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 128,
+    "Season": 6,
+    "Episode": 16,
+    "Viewer_Count": 10,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 129,
+    "Season": 6,
+    "Episode": 17,
+    "Viewer_Count": 9.51,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 130,
+    "Season": 6,
+    "Episode": 18,
+    "Viewer_Count": 9.33,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 131,
+    "Season": 6,
+    "Episode": 19,
+    "Viewer_Count": 9.24,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 132,
+    "Season": 6,
+    "Episode": 20,
+    "Viewer_Count": 8.03,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 133,
+    "Season": 6,
+    "Episode": 21,
+    "Viewer_Count": 6.87,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 134,
+    "Season": 6,
+    "Episode": 22,
+    "Viewer_Count": 6.49,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 135,
+    "Season": 6,
+    "Episode": 23,
+    "Viewer_Count": 6.41,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 136,
+    "Season": 6,
+    "Episode": 24,
+    "Viewer_Count": 7.15,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 137,
+    "Season": 7,
+    "Episode": 1,
+    "Viewer_Count": 11,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 138,
+    "Season": 7,
+    "Episode": 2,
+    "Viewer_Count": 12.22,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 139,
+    "Season": 7,
+    "Episode": 3,
+    "Viewer_Count": 10.5,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 140,
+    "Season": 7,
+    "Episode": 4,
+    "Viewer_Count": 10.39,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 141,
+    "Season": 7,
+    "Episode": 5,
+    "Viewer_Count": 8.89,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 142,
+    "Season": 7,
+    "Episode": 6,
+    "Viewer_Count": 9.81,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 143,
+    "Season": 7,
+    "Episode": 7,
+    "Viewer_Count": 9.87,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 144,
+    "Season": 7,
+    "Episode": 8,
+    "Viewer_Count": 10.49,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Episode_Number": 145,
+    "Season": 7,
+    "Episode": 9,
+    "Viewer_Count": 10.28,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 146,
+    "Season": 7,
+    "Episode": 10,
+    "Viewer_Count": 10.42,
+    "IMDB_Rating": 9
+  },
+  {
+    "Episode_Number": 147,
+    "Season": 7,
+    "Episode": 11,
+    "Viewer_Count": 10.01,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 148,
+    "Season": 7,
+    "Episode": 12,
+    "Viewer_Count": 11.51,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 149,
+    "Season": 7,
+    "Episode": 13,
+    "Viewer_Count": 10.14,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 150,
+    "Season": 7,
+    "Episode": 14,
+    "Viewer_Count": 10.08,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 151,
+    "Season": 7,
+    "Episode": 15,
+    "Viewer_Count": 9.98,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Episode_Number": 152,
+    "Season": 7,
+    "Episode": 16,
+    "Viewer_Count": 9.01,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 153,
+    "Season": 7,
+    "Episode": 17,
+    "Viewer_Count": 9.68,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 154,
+    "Season": 7,
+    "Episode": 18,
+    "Viewer_Count": 9.07,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 155,
+    "Season": 7,
+    "Episode": 19,
+    "Viewer_Count": 8.15,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 156,
+    "Season": 7,
+    "Episode": 20,
+    "Viewer_Count": 8,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 157,
+    "Season": 7,
+    "Episode": 21,
+    "Viewer_Count": 7.24,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 158,
+    "Season": 7,
+    "Episode": 22,
+    "Viewer_Count": 7.99,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 159,
+    "Season": 7,
+    "Episode": 23,
+    "Viewer_Count": 8.58,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 160,
+    "Season": 7,
+    "Episode": 24,
+    "Viewer_Count": 8.58,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 161,
+    "Season": 8,
+    "Episode": 1,
+    "Viewer_Count": 8.84,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 162,
+    "Season": 8,
+    "Episode": 2,
+    "Viewer_Count": 8.17,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Episode_Number": 163,
+    "Season": 8,
+    "Episode": 3,
+    "Viewer_Count": 7.82,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Episode_Number": 164,
+    "Season": 8,
+    "Episode": 4,
+    "Viewer_Count": 7.93,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 165,
+    "Season": 8,
+    "Episode": 5,
+    "Viewer_Count": 7.22,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 166,
+    "Season": 8,
+    "Episode": 6,
+    "Viewer_Count": 7.95,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Episode_Number": 167,
+    "Season": 8,
+    "Episode": 7,
+    "Viewer_Count": 7.45,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Episode_Number": 168,
+    "Season": 8,
+    "Episode": 8,
+    "Viewer_Count": 8.73,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 169,
+    "Season": 8,
+    "Episode": 9,
+    "Viewer_Count": 8.26,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 170,
+    "Season": 8,
+    "Episode": 10,
+    "Viewer_Count": 8.7,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 171,
+    "Season": 8,
+    "Episode": 11,
+    "Viewer_Count": 8.7,
+    "IMDB_Rating": 8.6
+  },
+  {
+    "Episode_Number": 172,
+    "Season": 8,
+    "Episode": 12,
+    "Viewer_Count": 10.51,
+    "IMDB_Rating": 9.4
+  },
+  {
+    "Episode_Number": 173,
+    "Season": 8,
+    "Episode": 13,
+    "Viewer_Count": 10.07,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 174,
+    "Season": 8,
+    "Episode": 14,
+    "Viewer_Count": 10.3,
+    "IMDB_Rating": 7.9
+  },
+  {
+    "Episode_Number": 175,
+    "Season": 8,
+    "Episode": 15,
+    "Viewer_Count": 8.98,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 176,
+    "Season": 8,
+    "Episode": 16,
+    "Viewer_Count": 8.85,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Episode_Number": 177,
+    "Season": 8,
+    "Episode": 17,
+    "Viewer_Count": 8.59,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 178,
+    "Season": 8,
+    "Episode": 18,
+    "Viewer_Count": 7.44,
+    "IMDB_Rating": 8.1
+  },
+  {
+    "Episode_Number": 179,
+    "Season": 8,
+    "Episode": 19,
+    "Viewer_Count": 6.99,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 180,
+    "Season": 8,
+    "Episode": 20,
+    "Viewer_Count": 6.58,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 181,
+    "Season": 8,
+    "Episode": 21,
+    "Viewer_Count": 7.06,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Episode_Number": 182,
+    "Season": 8,
+    "Episode": 22,
+    "Viewer_Count": 6.99,
+    "IMDB_Rating": 8.7
+  },
+  {
+    "Episode_Number": 183,
+    "Season": 8,
+    "Episode": 23,
+    "Viewer_Count": 8.57,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Episode_Number": 184,
+    "Season": 8,
+    "Episode": 24,
+    "Viewer_Count": 8.57,
+    "IMDB_Rating": 8.8
+  },
+  {
+    "Episode_Number": 185,
+    "Season": 9,
+    "Episode": 1,
+    "Viewer_Count": 9.4,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 186,
+    "Season": 9,
+    "Episode": 2,
+    "Viewer_Count": 9.4,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 187,
+    "Season": 9,
+    "Episode": 3,
+    "Viewer_Count": 7.87,
+    "IMDB_Rating": 7.6
+  },
+  {
+    "Episode_Number": 188,
+    "Season": 9,
+    "Episode": 4,
+    "Viewer_Count": 7.53,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Episode_Number": 189,
+    "Season": 9,
+    "Episode": 5,
+    "Viewer_Count": 7.98,
+    "IMDB_Rating": 7.2
+  },
+  {
+    "Episode_Number": 190,
+    "Season": 9,
+    "Episode": 6,
+    "Viewer_Count": 7.64,
+    "IMDB_Rating": 7.5
+  },
+  {
+    "Episode_Number": 191,
+    "Season": 9,
+    "Episode": 7,
+    "Viewer_Count": 7.63,
+    "IMDB_Rating": 7.4
+  },
+  {
+    "Episode_Number": 192,
+    "Season": 9,
+    "Episode": 8,
+    "Viewer_Count": 8.67,
+    "IMDB_Rating": 7.3
+  },
+  {
+    "Episode_Number": 193,
+    "Season": 9,
+    "Episode": 9,
+    "Viewer_Count": 8.08,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 194,
+    "Season": 9,
+    "Episode": 10,
+    "Viewer_Count": 8.11,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Episode_Number": 195,
+    "Season": 9,
+    "Episode": 11,
+    "Viewer_Count": 7.64,
+    "IMDB_Rating": 5.8
+  },
+  {
+    "Episode_Number": 196,
+    "Season": 9,
+    "Episode": 12,
+    "Viewer_Count": 8.04,
+    "IMDB_Rating": 7.8
+  },
+  {
+    "Episode_Number": 197,
+    "Season": 9,
+    "Episode": 13,
+    "Viewer_Count": 7.71,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 198,
+    "Season": 9,
+    "Episode": 14,
+    "Viewer_Count": 8.59,
+    "IMDB_Rating": 5.9
+  },
+  {
+    "Episode_Number": 199,
+    "Season": 9,
+    "Episode": 15,
+    "Viewer_Count": 8.83,
+    "IMDB_Rating": 8.4
+  },
+  {
+    "Episode_Number": 200,
+    "Season": 9,
+    "Episode": 16,
+    "Viewer_Count": 10.81,
+    "IMDB_Rating": 9.5
+  },
+  {
+    "Episode_Number": 201,
+    "Season": 9,
+    "Episode": 17,
+    "Viewer_Count": 9.98,
+    "IMDB_Rating": 8.2
+  },
+  {
+    "Episode_Number": 202,
+    "Season": 9,
+    "Episode": 18,
+    "Viewer_Count": 9.28,
+    "IMDB_Rating": 8
+  },
+  {
+    "Episode_Number": 203,
+    "Season": 9,
+    "Episode": 19,
+    "Viewer_Count": 9.11,
+    "IMDB_Rating": 7.7
+  },
+  {
+    "Episode_Number": 204,
+    "Season": 9,
+    "Episode": 20,
+    "Viewer_Count": 7.7,
+    "IMDB_Rating": 8.5
+  },
+  {
+    "Episode_Number": 205,
+    "Season": 9,
+    "Episode": 21,
+    "Viewer_Count": 7.78,
+    "IMDB_Rating": 8.3
+  },
+  {
+    "Episode_Number": 206,
+    "Season": 9,
+    "Episode": 22,
+    "Viewer_Count": 9.04,
+    "IMDB_Rating": 8.9
+  },
+  {
+    "Episode_Number": 207,
+    "Season": 9,
+    "Episode": 23,
+    "Viewer_Count": 13.13,
+    "IMDB_Rating": 6.7
+  },
+  {
+    "Episode_Number": 208,
+    "Season": 9,
+    "Episode": 24,
+    "Viewer_Count": 13.13,
+    "IMDB_Rating": 5.5
+  }
+]
