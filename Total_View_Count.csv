@@ -215,7 +215,7 @@ X-Files,213,"3,507",8.2
 X-Files,214,"2,310",8.1
 X-Files,215,"2,045",7.5
 X-Files,216,"3,013",8.1
-X-Files,217,"1,858",6.8
+X-Files,217*,"1,858",6.8
 The Office,1,"5,396",7.5
 The Office,2,"5,268",8.3
 The Office,3,"4,419",7.8
@@ -403,7 +403,7 @@ The Office,184,"2,211",8
 The Office,185,"2,246",8
 The Office,186,"3,203",9
 The Office,187,"4,404",9.5
-The Office,188,"11,544",9.8
+The Office,188*,"11,544",9.8
 Futurama,1,"2,818",8.7
 Futurama,2,"2,207",8.1
 Futurama,3,"2,168",8.3
@@ -543,7 +543,7 @@ Futurama,136,906,7.1
 Futurama,137,"1,391",8.5
 Futurama,138,"1,173",8.5
 Futurama,139,"1,138",8
-Futurama,140,"2,714",9.4
+Futurama,140*,"2,714",9.4
 Dexter,1,"7,289",8.8
 Dexter,2,"5,058",8.3
 Dexter,3,"4,727",8.4
@@ -639,7 +639,7 @@ Dexter,92,"3,633",8.1
 Dexter,93,"3,561",7.4
 Dexter,94,"4,009",6.9
 Dexter,95,"4,281",7.2
-Dexter,96,"17,365",4.6
+Dexter,96*,"17,365",4.6
 How I Met Your Mother,1,"5,176",8.5
 How I Met Your Mother,2,"3,906",8.2
 How I Met Your Mother,3,"3,704",8.2
@@ -847,7 +847,7 @@ How I Met Your Mother,204,"3,028",8.5
 How I Met Your Mother,205,"3,119",8.3
 How I Met Your Mother,206,"4,023",8.9
 How I Met Your Mother,207,"8,901",6.7
-How I Met Your Mother,208,"16,352",5.5
+How I Met Your Mother,208*,"16,352",5.5
 Game of Thrones,1,"39,850",9.1
 Game of Thrones,2,"30,225",8.8
 Game of Thrones,3,"28,579",8.7
@@ -920,7 +920,7 @@ Game of Thrones,69,"121,996",7.8
 Game of Thrones,70,"203,046",7.4
 Game of Thrones,71,"155,073",5.5
 Game of Thrones,72,"180,550",6
-Game of Thrones,73,"225,789",4
+Game of Thrones,73*,"225,789",4
 House M.D,1,"4,271",8.6
 House M.D,2,"3,034",8.3
 House M.D,3,"2,852",8.3
@@ -1096,7 +1096,7 @@ House M.D,172,"1,537",8.1
 House M.D,173,"2,234",9
 House M.D,174,"1,720",8.8
 House M.D,175,"2,073",9
-House M.D,176,"4,785",9.3
+House M.D,176*,"4,785",9.3
 Friends,1,"7,014",8.3
 Friends,2,"5,295",8
 Friends,3,"4,988",8.2
@@ -1332,7 +1332,7 @@ Friends,232,"3,237",8.6
 Friends,233,"3,011",8.5
 Friends,234,"3,424",8.9
 Friends,235,"11,649",9.7
-Friends,236,"10,680",9.7
+Friends,236*,"10,680",9.7
 Breaking Bad,1,"24,460",9
 Breaking Bad,2,"17,628",8.7
 Breaking Bad,3,"17,074",8.8
@@ -1394,7 +1394,7 @@ Breaking Bad,58,"19,137",9.2
 Breaking Bad,59,"32,232",9.8
 Breaking Bad,60,"121,747",10
 Breaking Bad,61,"32,544",9.7
-Breaking Bad,62,"86,182",9.9
+Breaking Bad,62*,"86,182",9.9
 House of Cards,1,"7,203",8.6
 House of Cards,2,"5,760",8.6
 House of Cards,3,"5,132",8.3
@@ -1467,4 +1467,4 @@ House of Cards,69,"4,061",4.3
 House of Cards,70,"4,138",4.4
 House of Cards,71,"4,001",4.2
 House of Cards,72,"4,020",3.8
-House of Cards,73,"6,615",2.5
+House of Cards,73*,"6,615",2.5
